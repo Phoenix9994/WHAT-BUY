@@ -2,6 +2,9 @@
 # coding: utf-8
 """
 THE MACHINE LEARNING MODEL  
+
+Side note: Make the user pick which Stock they want to see predicted, it will take way too long, but they can see the % change and then decide if they want  to make a decision 
+and use M.L. to predict the trend to see if growth will occur tomorrow
 ==============================================
 
 This program uses artificial intelligence to predict whether a stock price will go UP or DOWN tomorrow.
