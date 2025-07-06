@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 """
-STOCK PRICE PREDICTION USING MACHINE LEARNING
+THE MACHINE LEARNING MODEL  
 ==============================================
 
 This program uses artificial intelligence to predict whether a stock price will go UP or DOWN tomorrow.
