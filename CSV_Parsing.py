@@ -81,3 +81,18 @@ with open('filtered_stocks.json', 'w') as f:
 
 # Print the filtered, sorted results
 #print(selected_columns)
+
+"""
+Since I have the filter data stored, I have the ML agent,I have the Scraper to get a bunch of STOCKS
+NOTE- Yfinance can update all the filtered stocks i currently have, thats what I would need to do when doing refresh so i dont have to pull everything on there #####
+- enough tickers per hour
+
+Design a Flask Backend that makes a bunch of these system calls
+Design a React/ Python Front end that allows users to 
+    - Select their price range
+    - Find Stocks that they want
+    - Further Filter The stocks based on company filter
+    - Click on the stock to review a deep analysis with a ML model applied to it
+    - Can See the current trend of graph with the current change % 
+    - See 5 Stocks at a time with arrows, Have a sorting feature based on 
+"""
