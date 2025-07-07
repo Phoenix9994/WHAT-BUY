@@ -1,0 +1,557 @@
+{
+  "BEAM": {
+    "company_name": "Beam Therapeutics Inc.",
+    "price": 20.01,
+    "change": "+0.65%"
+  },
+  "ATEN": {
+    "company_name": "A10 Networks, Inc.",
+    "price": 20.14,
+    "change": "+1.92%"
+  },
+  "AVBP": {
+    "company_name": "ArriVent BioPharma, Inc.",
+    "price": 20.77,
+    "change": "\u22121.56%"
+  },
+  "ACAD": {
+    "company_name": "ACADIA Pharmaceuticals Inc.",
+    "price": 20.95,
+    "change": "\u22121.37%"
+  },
+  "AGFY": {
+    "company_name": "Agrify Corporation",
+    "price": 21.03,
+    "change": "\u22127.64%"
+  },
+  "AIRT": {
+    "company_name": "Air T, Inc.",
+    "price": 21.13,
+    "change": "\u22124.00%"
+  },
+  "ASIC": {
+    "company_name": "Ategrity Specialty Insurance Company Holdings",
+    "price": 21.13,
+    "change": "+2.08%"
+  },
+  "BKSY": {
+    "company_name": "BlackSky Technology Inc.",
+    "price": 21.48,
+    "change": "+5.97%"
+  },
+  "AXR": {
+    "company_name": "AMREP Corporation",
+    "price": 21.72,
+    "change": "\u22120.05%"
+  },
+  "AIRO": {
+    "company_name": "AIRO Group Holdings, Inc.",
+    "price": 21.9,
+    "change": "+1.30%"
+  },
+  "AMN": {
+    "company_name": "AMN Healthcare Services Inc",
+    "price": 21.92,
+    "change": "\u22120.41%"
+  },
+  "ACI": {
+    "company_name": "Albertsons Companies, Inc.",
+    "price": 21.93,
+    "change": "\u22120.27%"
+  },
+  "ATGL": {
+    "company_name": "Alpha Technology Group Limited",
+    "price": 22.22,
+    "change": "+8.44%"
+  },
+  "AMKR": {
+    "company_name": "Amkor Technology, Inc.",
+    "price": 22.23,
+    "change": "\u22120.31%"
+  },
+  "ADNT": {
+    "company_name": "Adient plc",
+    "price": 22.38,
+    "change": "+0.90%"
+  },
+  "ARCC": {
+    "company_name": "Ares Capital Corporation",
+    "price": 22.41,
+    "change": "+0.67%"
+  },
+  "BKV": {
+    "company_name": "BKV Corporation",
+    "price": 22.75,
+    "change": "\u22121.17%"
+  },
+  "BLFS": {
+    "company_name": "BioLife Solutions, Inc.",
+    "price": 22.84,
+    "change": "+0.40%"
+  },
+  "ALRS": {
+    "company_name": "Alerus Financial Corporation",
+    "price": 22.84,
+    "change": "+1.83%"
+  },
+  "AMRK": {
+    "company_name": "A-Mark Precious Metals, Inc.",
+    "price": 22.84,
+    "change": "+0.48%"
+  },
+  "AUBN": {
+    "company_name": "Auburn National Bancorporation, Inc.",
+    "price": 23.13,
+    "change": "\u22124.18%"
+  },
+  "AMPH": {
+    "company_name": "Amphastar Pharmaceuticals, Inc.",
+    "price": 23.2,
+    "change": "\u22121.61%"
+  },
+  "ACHC": {
+    "company_name": "Acadia Healthcare Company, Inc.",
+    "price": 23.36,
+    "change": "+0.73%"
+  },
+  "ANAB": {
+    "company_name": "AnaptysBio, Inc.",
+    "price": 23.75,
+    "change": "\u22120.54%"
+  },
+  "AMTM": {
+    "company_name": "Amentum Holdings, Inc.",
+    "price": 24.21,
+    "change": "\u22120.37%"
+  },
+  "BE": {
+    "company_name": "Bloom Energy Corporation",
+    "price": 24.24,
+    "change": "+7.45%"
+  },
+  "ARIS": {
+    "company_name": "Aris Water Solutions, Inc.",
+    "price": 24.38,
+    "change": "\u22120.85%"
+  },
+  "BASE": {
+    "company_name": "Couchbase, Inc.",
+    "price": 24.42,
+    "change": "0.00%"
+  },
+  "AROC": {
+    "company_name": "Archrock, Inc.",
+    "price": 24.7,
+    "change": "\u22120.08%"
+  },
+  "AOMD": {
+    "company_name": "Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",
+    "price": 24.7,
+    "change": "+0.49%"
+  },
+  "AVNW": {
+    "company_name": "Aviat Networks, Inc.",
+    "price": 24.82,
+    "change": "+0.85%"
+  },
+  "BEN": {
+    "company_name": "Franklin Resources, Inc.",
+    "price": 24.88,
+    "change": "+0.36%"
+  },
+  "ATEX": {
+    "company_name": "Anterix Inc.",
+    "price": 25.23,
+    "change": "+0.60%"
+  },
+  "ASTH": {
+    "company_name": "Astrana Health Inc.",
+    "price": 25.28,
+    "change": "+2.56%"
+  },
+  "ASIX": {
+    "company_name": "AdvanSix Inc.",
+    "price": 25.29,
+    "change": "+0.76%"
+  },
+  "AI": {
+    "company_name": "C3.ai, Inc.",
+    "price": 25.75,
+    "change": "\u22120.27%"
+  },
+  "ASB": {
+    "company_name": "Associated Banc-Corp",
+    "price": 25.86,
+    "change": "+0.94%"
+  },
+  "BFST": {
+    "company_name": "Business First Bancshares, Inc.",
+    "price": 26.19,
+    "change": "+1.04%"
+  },
+  "ARLP": {
+    "company_name": "Alliance Resource Partners, L.P.",
+    "price": 26.58,
+    "change": "\u22120.15%"
+  },
+  "BHLB": {
+    "company_name": "Berkshire Hills Bancorp, Inc.",
+    "price": 27.04,
+    "change": "+2.04%"
+  },
+  "AOSL": {
+    "company_name": "Alpha and Omega Semiconductor Limited",
+    "price": 27.8,
+    "change": "+0.31%"
+  },
+  "ACMR": {
+    "company_name": "ACM Research, Inc.",
+    "price": 27.81,
+    "change": "+0.94%"
+  },
+  "AROW": {
+    "company_name": "Arrow Financial Corporation",
+    "price": 28.02,
+    "change": "+1.30%"
+  },
+  "AAOI": {
+    "company_name": "Applied Optoelectronics, Inc.",
+    "price": 28.66,
+    "change": "+7.38%"
+  },
+  "ALKS": {
+    "company_name": "Alkermes plc",
+    "price": 28.85,
+    "change": "\u22120.52%"
+  },
+  "BCML": {
+    "company_name": "BayCom Corp",
+    "price": 28.89,
+    "change": "+0.03%"
+  },
+  "BF.A": {
+    "company_name": "Brown Forman Inc",
+    "price": 28.92,
+    "change": "\u22121.26%"
+  },
+  "BDL": {
+    "company_name": "Flanigan's Enterprises, Inc.",
+    "price": 29.0,
+    "change": "\u221216.47%"
+  },
+  "APEI": {
+    "company_name": "American Public Education, Inc.",
+    "price": 30.21,
+    "change": "+3.21%"
+  },
+  "AHL": {
+    "company_name": "Aspen Insurance Holdings Limited",
+    "price": 30.34,
+    "change": "+0.63%"
+  },
+  "APPN": {
+    "company_name": "Appian Corporation",
+    "price": 30.48,
+    "change": "+1.13%"
+  },
+  "ALKT": {
+    "company_name": "Alkami Technology, Inc.",
+    "price": 30.64,
+    "change": "+4.82%"
+  },
+  "AORT": {
+    "company_name": "Artivion, Inc.",
+    "price": 30.72,
+    "change": "\u22120.42%"
+  },
+  "AXTA": {
+    "company_name": "Axalta Coating Systems Ltd.",
+    "price": 30.87,
+    "change": "\u22121.18%"
+  },
+  "BAX": {
+    "company_name": "Baxter International Inc.",
+    "price": 31.01,
+    "change": "\u22120.39%"
+  },
+  "AA": {
+    "company_name": "Alcoa Corporation",
+    "price": 31.15,
+    "change": "\u22121.17%"
+  },
+  "ATRC": {
+    "company_name": "AtriCure, Inc.",
+    "price": 31.76,
+    "change": "+1.18%"
+  },
+  "BHB": {
+    "company_name": "Bar Harbor Bankshares, Inc.",
+    "price": 32.23,
+    "change": "+2.38%"
+  },
+  "ATRO": {
+    "company_name": "Astronics Corporation",
+    "price": 32.63,
+    "change": "+0.31%"
+  },
+  "AEVA": {
+    "company_name": "Aeva Technologies, Inc.",
+    "price": 32.89,
+    "change": "+6.51%"
+  },
+  "BBWI": {
+    "company_name": "Bath & Body Works, Inc.",
+    "price": 33.14,
+    "change": "+1.10%"
+  },
+  "AZTA": {
+    "company_name": "Azenta, Inc.",
+    "price": 33.23,
+    "change": "+1.16%"
+  },
+  "AMAL": {
+    "company_name": "Amalgamated Financial Corp.",
+    "price": 33.35,
+    "change": "+1.52%"
+  },
+  "AUB": {
+    "company_name": "Atlantic Union Bankshares Corporation",
+    "price": 33.54,
+    "change": "+1.05%"
+  },
+  "ARTNA": {
+    "company_name": "Artesian Resources Corporation",
+    "price": 33.77,
+    "change": "\u22120.12%"
+  },
+  "ALCO": {
+    "company_name": "Alico, Inc.",
+    "price": 33.81,
+    "change": "\u22120.73%"
+  },
+  "BIP": {
+    "company_name": "Brookfield Infrastructure Partners LP Limited Partnership",
+    "price": 34.07,
+    "change": "+0.83%"
+  },
+  "BEPC": {
+    "company_name": "Brookfield Renewable Corporation",
+    "price": 34.11,
+    "change": "+2.71%"
+  },
+  "APG": {
+    "company_name": "APi Group Corporation",
+    "price": 34.33,
+    "change": "+2.26%"
+  },
+  "AVNT": {
+    "company_name": "Avient Corporation",
+    "price": 34.43,
+    "change": "+0.03%"
+  },
+  "ARQQ": {
+    "company_name": "Arqit Quantum Inc.",
+    "price": 35.08,
+    "change": "\u22121.54%"
+  },
+  "ALGM": {
+    "company_name": "Allegro MicroSystems, Inc.",
+    "price": 35.93,
+    "change": "+0.59%"
+  },
+  "AGIO": {
+    "company_name": "Agios Pharmaceuticals, Inc.",
+    "price": 36.07,
+    "change": "+2.04%"
+  },
+  "AR": {
+    "company_name": "Antero Resources Corporation",
+    "price": 37.26,
+    "change": "+0.16%"
+  },
+  "AC": {
+    "company_name": "Associated Capital Group, Inc.",
+    "price": 37.36,
+    "change": "\u22120.19%"
+  },
+  "AAMI": {
+    "company_name": "Acadian Asset Management Inc.",
+    "price": 37.58,
+    "change": "+2.26%"
+  },
+  "ATMU": {
+    "company_name": "Atmus Filtration Technologies Inc.",
+    "price": 37.78,
+    "change": "+1.18%"
+  },
+  "ACT": {
+    "company_name": "Enact Holdings, Inc.",
+    "price": 37.8,
+    "change": "+0.69%"
+  },
+  "BKU": {
+    "company_name": "BankUnited, Inc.",
+    "price": 38.04,
+    "change": "+1.14%"
+  },
+  "AVA": {
+    "company_name": "Avista Corporation",
+    "price": 38.36,
+    "change": "+0.68%"
+  },
+  "ANDE": {
+    "company_name": "The Andersons, Inc.",
+    "price": 38.43,
+    "change": "\u22120.16%"
+  },
+  "ALNT": {
+    "company_name": "Allient Inc.",
+    "price": 38.76,
+    "change": "+1.81%"
+  },
+  "AS": {
+    "company_name": "Amer Sports, Inc.",
+    "price": 38.87,
+    "change": "+1.78%"
+  },
+  "BKR": {
+    "company_name": "Baker Hughes Company",
+    "price": 39.64,
+    "change": "\u22120.48%"
+  },
+  "AMSC": {
+    "company_name": "American Superconductor Corporation",
+    "price": 39.9,
+    "change": "+1.81%"
+  },
+  "BHE": {
+    "company_name": "Benchmark Electronics, Inc.",
+    "price": 40.32,
+    "change": "+0.75%"
+  },
+  "BLX": {
+    "company_name": "Banco Latinoamericano de Comercio Exterior, S.A.",
+    "price": 40.83,
+    "change": "+1.16%"
+  },
+  "AB": {
+    "company_name": "AllianceBernstein Holding L.P.",
+    "price": 41.1,
+    "change": "\u22120.34%"
+  },
+  "ALLY": {
+    "company_name": "Ally Financial Inc.",
+    "price": 41.21,
+    "change": "+0.76%"
+  },
+  "ASTE": {
+    "company_name": "Astec Industries, Inc.",
+    "price": 42.6,
+    "change": "\u22120.68%"
+  },
+  "ARMK": {
+    "company_name": "Aramark",
+    "price": 42.79,
+    "change": "\u22120.44%"
+  },
+  "BIPC": {
+    "company_name": "Brookfield Infrastructure Corporation",
+    "price": 43.16,
+    "change": "+1.67%"
+  },
+  "BBSI": {
+    "company_name": "Barrett Business Services, Inc.",
+    "price": 43.17,
+    "change": "+0.90%"
+  },
+  "APOG": {
+    "company_name": "Apogee Enterprises, Inc.",
+    "price": 43.27,
+    "change": "+0.14%"
+  },
+  "ACU": {
+    "company_name": "Acme",
+    "price": 43.63,
+    "change": "\u22120.14%"
+  },
+  "AMSF": {
+    "company_name": "AMERISAFE, Inc.",
+    "price": 43.79,
+    "change": "+1.58%"
+  },
+  "BBIO": {
+    "company_name": "BridgeBio Pharma, Inc.",
+    "price": 43.99,
+    "change": "+2.71%"
+  },
+  "ACNB": {
+    "company_name": "ACNB Corporation",
+    "price": 44.68,
+    "change": "+1.02%"
+  },
+  "BLBD": {
+    "company_name": "Blue Bird Corporation",
+    "price": 45.6,
+    "change": "+0.33%"
+  },
+  "ASTS": {
+    "company_name": "AST SpaceMobile, Inc.",
+    "price": 45.6,
+    "change": "\u22120.24%"
+  },
+  "BJRI": {
+    "company_name": "BJ's Restaurants, Inc.",
+    "price": 46.09,
+    "change": "\u22121.47%"
+  },
+  "ACIW": {
+    "company_name": "ACI Worldwide, Inc.",
+    "price": 46.21,
+    "change": "+1.58%"
+  },
+  "APAM": {
+    "company_name": "Artisan Partners Asset Management Inc.",
+    "price": 46.49,
+    "change": "\u22120.02%"
+  },
+  "ASO": {
+    "company_name": "Academy Sports and Outdoors, Inc.",
+    "price": 47.25,
+    "change": "\u22120.34%"
+  },
+  "APGE": {
+    "company_name": "Apogee Therapeutics, Inc.",
+    "price": 47.46,
+    "change": "+7.08%"
+  },
+  "BKE": {
+    "company_name": "Buckle, Inc. (The)",
+    "price": 47.66,
+    "change": "+0.06%"
+  },
+  "ABM": {
+    "company_name": "ABM Industries Incorporated",
+    "price": 47.93,
+    "change": "\u22120.72%"
+  },
+  "BILL": {
+    "company_name": "BILL Holdings, Inc.",
+    "price": 48.21,
+    "change": "+3.54%"
+  },
+  "BIRK": {
+    "company_name": "Birkenstock Holding plc",
+    "price": 48.82,
+    "change": "\u22120.47%"
+  },
+  "BAC": {
+    "company_name": "Bank of America Corporation",
+    "price": 48.93,
+    "change": "+0.45%"
+  },
+  "BATRA": {
+    "company_name": "Atlanta Braves Holdings, Inc. - Series A",
+    "price": 49.55,
+    "change": "+1.04%"
+  }
+}

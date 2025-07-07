@@ -1,0 +1,601 @@
+symbol,company_name,price,change,change_percent,volume,market_cap,dividend_yield
+A,"A − Agilent Technologies, Inc.",121.38 USD,+0.60%,944.96 K,0.53,34.48 B USD,−4.20%
+AA,AA − Alcoa Corporation,31.15 USD,−1.17%,3.04 M,0.45,8.06 B USD,1.28%
+AACB,AACB − Artius II Acquisition Inc.,10.10 USD,0.00%,5.31 K,0.04,238.87 M USD,
+AACI,AACI − Armada Acquisition Corp. II,10.04 USD,−0.00%,32.13 K,0.18,230.81 M USD,
+AACT,AACT − Ares Acquisition Corporation II,11.30 USD,−0.09%,27.87 K,0.08,699.01 M USD,−3.08%
+AAL,"AAL − American Airlines Group, Inc.",11.69 USD,+0.52%,30.32 M,0.59,7.71 B USD,+45.17%
+AAM,AAM − AA Mission Acquisition Corp.,10.43 USD,+0.05%,24.7 K,0.48,368.69 M USD,
+AAME,AAME − Atlantic American Corporation,2.34 USD,−0.85%,31.47 K,0.86,47.73 M USD,−40.34%
+AAMI,AAMI − Acadian Asset Management Inc.,37.58 USD,+2.26%,126.39 K,0.44,1.35 B USD,+46.94%
+AAOI,"AAOI − Applied Optoelectronics, Inc.",28.66 USD,+7.38%,6.96 M,0.99,1.61 B USD,
+AAON,"AAON − AAON, Inc.",75.25 USD,−0.03%,439.96 K,0.37,6.12 B USD,−11.55%
+AAP,AAP − Advance Auto Parts Inc.,51.62 USD,+5.33%,1.9 M,0.51,3.09 B USD,1.94%
+AAPL,AAPL − Apple Inc.,213.55 USD,+0.52%,34.96 M,0.53,3.19 T USD,−0.36%
+AARD,"AARD − Aardvark Therapeutics, Inc.",13.92 USD,+2.96%,10.56 K,0.08,302.01 M USD,
+AB,AB − AllianceBernstein Holding L.P.,41.10 USD,−0.34%,157.74 K,0.84,4.55 B USD,8.10%
+ABAT,ABAT − American Battery Technology Company,1.83 USD,−2.66%,3.18 M,0.87,169.32 M USD,−21.33%
+ABBV,ABBV − AbbVie Inc.,189.28 USD,−0.77%,3.71 M,0.45,334.34 B USD,−30.17%
+ABCB,ABCB − Ameris Bancorp,67.74 USD,+1.01%,223.7 K,0.55,4.67 B USD,+31.47%
+ABCL,ABCL − AbCellera Biologics Inc.,3.80 USD,+1.33%,1.95 M,0.26,1.13 B USD,−12.26%
+ABEO,ABEO − Abeona Therapeutics Inc.,5.89 USD,+0.34%,372.93 K,0.23,301.31 M USD,
+ABG,ABG − Asbury Automotive Group Inc,258.66 USD,−0.11%,76.8 K,0.38,5.09 B USD,−23.43%
+ABL,"ABL − Abacus Global Management, Inc.",5.39 USD,+1.13%,503.38 K,0.41,527.51 M USD,
+ABLV,ABLV − Able View Global Inc.,0.9830 USD,−1.70%,2.33 K,0.31,48.55 M USD,
+ABM,ABM − ABM Industries Incorporated,47.93 USD,−0.72%,345.53 K,0.55,2.98 B USD,2.04%
+ABNB,"ABNB − Airbnb, Inc.",136.49 USD,+0.81%,2.63 M,0.58,85.5 B USD,−46.76%
+ABOS,"ABOS − Acumen Pharmaceuticals, Inc.",1.16 USD,+2.65%,94.01 K,0.11,70.27 M USD,
+ABP,"ABP − Abpro Holdings, Inc",0.1880 USD,−2.49%,1.59 M,0.36,11.43 M USD,
+ABSI,ABSI − Absci Corporation,2.77 USD,+2.97%,2.71 M,0.54,353.34 M USD,+20.78%
+ABT,ABT − Abbott Laboratories,134.44 USD,+0.25%,3.11 M,0.44,233.9 B USD,1.70%
+ABTS,ABTS − Abits Group Inc,4.88 USD,−4.13%,42.44 K,0.81,11.57 M USD,
+ABUS,ABUS − Arbutus Biopharma Corporation,3.24 USD,+1.57%,354.26 K,0.32,620.55 M USD,+8.01%
+ABVC,"ABVC − ABVC BioPharma, Inc.",3.11 USD,+0.32%,662.07 K,1.34,52.81 M USD,
+ABVE,ABVE − Above Food Ingredients Inc.,0.7438 USD,−11.45%,538.02 K,2.47,38.08 M USD,
+AC,"AC − Associated Capital Group, Inc.",37.36 USD,−0.19%,1.24 K,0.43,789.72 M USD,+15.60%
+ACA,"ACA − Arcosa, Inc.",90.02 USD,+0.39%,112.43 K,0.35,4.39 B USD,−45.32%
+ACAD,ACAD − ACADIA Pharmaceuticals Inc.,20.95 USD,−1.37%,916.96 K,0.37,3.51 B USD,
+ACCO,ACCO − Acco Brands Corporation,3.99 USD,+2.05%,424.47 K,0.41,359.5 M USD,7.52%
+ACCS,ACCS − ACCESS Newswire Inc.,11.60 USD,−5.46%,16.07 K,1.56,44.63 M USD,
+ACDC,ACDC − ProFrac Holding Corp.,7.44 USD,−6.18%,420.33 K,0.41,1.19 B USD,
+ACEL,"ACEL − Accel Entertainment, Inc.",12.12 USD,+0.75%,79.13 K,0.29,1.03 B USD,−2.27%
+ACET,"ACET − Adicet Bio, Inc.",0.6070 USD,−1.14%,545.98 K,1.27,50.2 M USD,
+ACGL,ACGL − Arch Capital Group Ltd.,89.19 USD,+0.92%,1.96 M,0.94,33.42 B USD,−22.99%
+ACHC,"ACHC − Acadia Healthcare Company, Inc.",23.36 USD,+0.73%,1.48 M,0.63,2.15 B USD,
+ACHR,ACHR − Archer Aviation Inc.,10.17 USD,+1.90%,19.27 M,0.44,6.45 B USD,+24.35%
+ACHV,"ACHV − Achieve Life Sciences, Inc.",2.18 USD,−3.54%,817.66 K,0.40,108.31 M USD,−4.03%
+ACI,"ACI − Albertsons Companies, Inc.",21.93 USD,−0.27%,2.72 M,0.48,12.37 B USD,−26.29%
+ACIC,ACIC − American Coastal Insurance Corporation,11.04 USD,+1.56%,177.41 K,0.64,533.82 M USD,+5.25%
+ACIU,ACIU − AC Immune SA,2.07 USD,+2.48%,113.29 K,0.76,204.81 M USD,+15.46%
+ACIW,"ACIW − ACI Worldwide, Inc.",46.21 USD,+1.58%,438.48 K,0.65,4.85 B USD,
+ACLS,"ACLS − Axcelis Technologies, Inc.",73.04 USD,+0.12%,255.24 K,0.44,2.35 B USD,−27.81%
+ACLX,"ACLX − Arcellx, Inc.",67.16 USD,+1.24%,166.18 K,0.25,3.7 B USD,
+ACM,ACM − AECOM,115.75 USD,+1.13%,441.53 K,0.34,15.31 B USD,0.83%
+ACMR,"ACMR − ACM Research, Inc.",27.81 USD,+0.94%,366.84 K,0.43,1.78 B USD,+19.16%
+ACN,ACN − Accenture plc,304.78 USD,+0.82%,1.62 M,0.34,207.36 B USD,+15.01%
+ACNB,ACNB − ACNB Corporation,44.68 USD,+1.02%,17.98 K,0.34,467.96 M USD,−15.76%
+ACNT,ACNT − Ascent Industries Co.,12.72 USD,+0.95%,32.42 K,0.17,133.68 M USD,
+ACOG,ACOG − Alpha Cognition Inc.,10.47 USD,−2.10%,55.84 K,0.75,167.65 M USD,
+ACON,"ACON − Aclarion, Inc.",7.45 USD,−3.06%,3.58 K,0.23,4.34 M USD,
+ACRS,"ACRS − Aclaris Therapeutics, Inc.",1.44 USD,−0.69%,402.41 K,0.20,155.92 M USD,−27.98%
+ACRV,"ACRV − Acrivon Therapeutics, Inc.",1.29 USD,0.00%,125.78 K,0.24,40.45 M USD,+22.94%
+ACT,"ACT − Enact Holdings, Inc.",37.80 USD,+0.69%,200.71 K,0.31,5.67 B USD,+10.10%
+ACTG,ACTG − Acacia Research Corporation,3.74 USD,0.00%,66.8 K,0.40,359.68 M USD,
+ACTU,"ACTU − Actuate Therapeutics, Inc.",6.59 USD,−2.23%,53.99 K,0.22,129.29 M USD,
+ACU,ACU − Acme,43.63 USD,−0.14%,13.24 K,0.21,165.39 M USD,−48.89%
+ACVA,ACVA − ACV Auctions Inc.,16.51 USD,−0.72%,914.14 K,0.47,2.82 B USD,+7.44%
+ACXP,"ACXP − Acurx Pharmaceuticals, Inc.",0.4820 USD,−0.97%,560.62 K,0.21,11.32 M USD,+40.64%
+ADBE,ADBE − Adobe Inc.,379.31 USD,+0.22%,2.86 M,0.58,160.9 B USD,+40.44%
+ADCT,ADCT − ADC Therapeutics SA,2.85 USD,+1.79%,323.65 K,0.29,282.66 M USD,+47.31%
+ADD,"ADD − Color Star Technology Co., Ltd.",0.8700 USD,−2.47%,1.26 M,2.31,25.65 M USD,
+ADEA,ADEA − Adeia Inc.,14.64 USD,+1.04%,263.1 K,0.37,1.59 B USD,1.37%
+ADGM,"ADGM − Adagio Medical Holdings, Inc",1.55 USD,+1.31%,49.96 K,1.15,23.84 M USD,−4.40%
+ADI,"ADI − Analog Devices, Inc.",245.68 USD,+0.22%,1.84 M,0.52,121.92 B USD,−14.01%
+ADIL,"ADIL − Adial Pharmaceuticals, Inc",0.3269 USD,−0.97%,1.29 M,0.03,5.16 M USD,
+ADM,ADM − Archer-Daniels-Midland Company,55.31 USD,−1.06%,2.26 M,0.47,26.57 B USD,3.65%
+ADMA,ADMA − ADMA Biologics Inc,18.28 USD,+0.77%,1.05 M,0.25,4.36 B USD,
+ADN,"ADN − Advent Technologies Holdings, Inc.",2.03 USD,−2.36%,20.34 K,0.83,5.42 M USD,
+ADNT,ADNT − Adient plc,22.38 USD,+0.90%,867.91 K,0.66,1.88 B USD,
+ADP,"ADP − Automatic Data Processing, Inc.",309.20 USD,+1.36%,1.39 M,0.70,125.51 B USD,+9.06%
+ADPT,ADPT − Adaptive Biotechnologies Corporation,11.80 USD,+2.79%,1.02 M,0.30,1.79 B USD,+35.36%
+ADSE,ADSE − ADS-TEC ENERGY PLC,12.25 USD,−1.84%,66.34 K,0.63,671.79 M USD,
+ADSK,"ADSK − Autodesk, Inc.",316.66 USD,+2.04%,836.36 K,0.52,67.75 B USD,+1.12%
+ADT,ADT − ADT Inc.,8.47 USD,+2.42%,15.21 M,0.95,6.62 B USD,−14.77%
+ADTN,"ADTN − ADTRAN Holdings, Inc.",9.56 USD,+1.70%,622.35 K,0.42,765.11 M USD,
+ADTX,"ADTX − Aditxt, Inc.",1.23 USD,−1.60%,349.31 K,0.13,2.99 M USD,
+ADUS,ADUS − Addus HomeCare Corporation,111.86 USD,+1.35%,91.16 K,0.53,2.06 B USD,+9.97%
+ADV,ADV − Advantage Solutions Inc.,1.57 USD,+1.29%,783.45 K,0.87,509.17 M USD,
+ADVB,ADVB − Advanced Biomed Inc.,0.6810 USD,−2.71%,76.14 K,0.31,14.74 M USD,
+ADVM,"ADVM − Adverum Biotechnologies, Inc.",2.28 USD,+0.88%,73.59 K,0.15,47.63 M USD,+37.54%
+AEBI,AEBI − Aebi Schmidt Holding AG,13.61 USD,+21.74%,5.22 M,—,—,
+AEE,AEE − Ameren Corporation,96.02 USD,+0.57%,637.6 K,0.34,26.57 B USD,+3.65%
+AEHL,AEHL − Antelope Enterprise Holdings Limited,3.00 USD,−2.01%,22.01 K,0.25,10.26 M USD,
+AEHR,AEHR − Aehr Test Systems,15.60 USD,+3.11%,1.63 M,1.15,464.43 M USD,+49.83%
+AEI,AEI − Alset Inc.,1.06 USD,+2.91%,30.38 K,0.15,12.44 M USD,
+AEIS,"AEIS − Advanced Energy Industries, Inc.",138.14 USD,+0.43%,157.38 K,0.36,5.2 B USD,−28.81%
+AEMD,"AEMD − Aethlon Medical, Inc.",1.24 USD,0.00%,68.86 K,0.14,3.21 M USD,
+AENT,AENT − Alliance Entertainment Holding Corporation,5.34 USD,+17.11%,65.32 K,1.17,272.11 M USD,
+AEO,"AEO − American Eagle Outfitters, Inc.",10.28 USD,−0.29%,3.19 M,0.42,1.78 B USD,−11.46%
+AEON,"AEON − AEON Biopharma, Inc.",0.8376 USD,−0.29%,234.83 K,0.98,9.47 M USD,
+AEP,"AEP − American Electric Power Company, Inc.",103.86 USD,+0.58%,1.62 M,0.54,55.48 B USD,−3.64%
+AER,AER − AerCap Holdings N.V.,115.89 USD,+0.73%,912.17 K,0.82,20.46 B USD,−26.90%
+AERT,"AERT − Aeries Technology, Inc.",1.13 USD,−7.38%,59.03 K,0.28,53.28 M USD,
+AES,AES − The AES Corporation,11.52 USD,+3.50%,13.84 M,0.80,8.2 B USD,6.05%
+AESI,AESI − Atlas Energy Solutions Inc.,14.12 USD,−1.40%,609.64 K,0.27,1.75 B USD,6.87%
+AEVA,"AEVA − Aeva Technologies, Inc.",32.89 USD,+6.51%,2.36 M,0.57,1.81 B USD,+10.38%
+AEYE,"AEYE − AudioEye, Inc.",12.19 USD,+3.22%,60.11 K,0.76,151.87 M USD,−1.28%
+AFBI,"AFBI − Affinity Bancshares, Inc.",18.32 USD,−0.60%,19.11 K,6.27,115.71 M USD,−3.10%
+AFG,"AFG − American Financial Group, Inc.",127.43 USD,+1.75%,376.55 K,0.68,10.64 B USD,−9.00%
+AFJK,"AFJK − Aimei Health Technology Co., Ltd",11.15 USD,−0.45%,183,0.02,68.26 M USD,
+AFL,AFL − AFLAC Incorporated,104.57 USD,+1.01%,994.9 K,0.28,56.54 B USD,−29.33%
+AFRI,AFRI − Forafric Global PLC,7.83 USD,+1.29%,4.6 K,0.21,210.64 M USD,
+AFRM,"AFRM − Affirm Holdings, Inc.",69.19 USD,+1.20%,2.3 M,0.39,22.32 B USD,
+AFYA,AFYA − Afya Limited,17.49 USD,−0.29%,100.73 K,1.08,1.58 B USD,+24.83%
+AGAE,AGAE − Allied Gaming & Entertainment Inc.,1.81 USD,−5.73%,40.35 K,0.28,66.62 M USD,
+AGCO,AGCO − AGCO Corporation,109.70 USD,−0.77%,461.16 K,0.48,8.18 B USD,1.06%
+AGEN,AGEN − Agenus Inc.,6.07 USD,+10.16%,1.27 M,1.06,166.42 M USD,+31.19%
+AGFY,AGFY − Agrify Corporation,21.03 USD,−7.64%,2.16 K,0.08,41.05 M USD,
+AGH,AGH − Aureus Greenway Holdings Inc.,0.5771 USD,+0.82%,22.73 K,0.45,—,
+AGIO,"AGIO − Agios Pharmaceuticals, Inc.",36.07 USD,+2.04%,258.71 K,0.45,2.09 B USD,
+AGL,"AGL − agilon health, inc.",2.43 USD,+1.67%,2.54 M,0.76,1.01 B USD,−6.14%
+AGM,AGM − Federal Agricultural Mortgage Corporation,201.02 USD,+0.57%,81.18 K,0.55,2.14 B USD,−1.42%
+AGMH,AGMH − AGM Group Holdings Inc.,2.59 USD,+1.77%,363.6 K,0.44,5.22 M USD,
+AGO,AGO − Assured Guaranty Ltd.,85.50 USD,+0.62%,277.66 K,0.65,4.2 B USD,−35.80%
+AGRI,AGRI − AgriFORCE Growing Systems Ltd.,0.7550 USD,+1.07%,79.25 K,0.55,2.16 M USD,
+AGRO,AGRO − Adecoagro S.A.,9.37 USD,+1.85%,413.06 K,1.29,936.94 M USD,3.72%
+AGX,"AGX − Argan, Inc.",211.09 USD,+2.40%,192.31 K,0.41,2.88 B USD,0.68%
+AGYS,"AGYS − Agilysys, Inc.",115.29 USD,+2.87%,195.93 K,0.60,3.23 B USD,
+AHCO,AHCO − AdaptHealth Corp.,9.32 USD,−0.53%,800.46 K,0.35,1.26 B USD,
+AHL,AHL − Aspen Insurance Holdings Limited,30.34 USD,+0.63%,92.66 K,0.33,2.79 B USD,
+AI,"AI − C3.ai, Inc.",25.75 USD,−0.27%,4.51 M,0.80,3.37 B USD,+4.68%
+AIFE,AIFE − Aifeex Nexus Acquisition Corporation,10.21 USD,−0.24%,9 K,0.23,90.51 M USD,
+AIFF,"AIFF − Firefly Neuroscience, Inc.",3.03 USD,−4.11%,346.59 K,0.12,38.97 M USD,
+AIFU,AIFU − AIFU Inc.,6.94 USD,+7.26%,59.64 K,0.21,37.44 M USD,+11.84%
+AIG,"AIG − American International Group, Inc. New",83.18 USD,+1.00%,2.8 M,0.54,47.94 B USD,−33.20%
+AIHS,AIHS − Senmiao Technology Limited,0.3000 USD,+1.86%,77.64 K,0.07,3.16 M USD,+27.19%
+AII,"AII − American Integrity Insurance Group, Inc.",17.81 USD,−0.22%,27.75 K,0.10,348.58 M USD,
+AIM,AIM − AIM ImmunoTech Inc.,8.85 USD,−3.47%,3.65 K,0.21,6.76 M USD,
+AIMD,"AIMD − Ainos, Inc.",3.29 USD,+3.13%,60 K,0.57,13.79 M USD,
+AIN,AIN − Albany International Corporation,72.23 USD,+0.50%,150.57 K,0.35,2.18 B USD,−30.28%
+AIOT,"AIOT − PowerFleet, Inc.",4.34 USD,−0.46%,894.35 K,0.34,578.83 M USD,
+AIP,"AIP − Arteris, Inc.",9.23 USD,+1.54%,212.42 K,0.26,387.45 M USD,+20.20%
+AIR,AIR − AAR Corp.,71.46 USD,+0.53%,121.06 K,0.40,2.58 B USD,
+AIRE,AIRE − reAlpha Tech Corp.,0.2834 USD,−11.41%,40.91 M,32.59,14.75 M USD,
+AIRG,"AIRG − Airgain, Inc.",4.21 USD,+2.18%,14.67 K,0.72,49.65 M USD,+39.81%
+AIRI,AIRI − Air Industries Group,3.27 USD,−2.10%,10.06 K,0.23,12.31 M USD,+31.48%
+AIRJ,AIRJ − AirJoule Technologies Corporation,5.48 USD,+5.79%,265.25 K,0.58,330.09 M USD,
+AIRO,"AIRO − AIRO Group Holdings, Inc.",21.90 USD,+1.30%,788.73 K,0.34,573.22 M USD,
+AIRS,"AIRS − AirSculpt Technologies, Inc.",5.40 USD,+4.65%,279.92 K,0.48,337.03 M USD,
+AIRT,"AIRT − Air T, Inc.",21.13 USD,−4.00%,3.13 K,0.63,57.11 M USD,+5.85%
+AISP,"AISP − Airship AI Holdings, Inc",5.89 USD,+1.20%,961.74 K,0.44,187.56 M USD,
+AIT,"AIT − Applied Industrial Technologies, Inc.",245.74 USD,+0.22%,307.74 K,0.27,9.36 B USD,+4.59%
+AIZ,"AIZ − Assurant, Inc.",193.47 USD,+0.88%,264.32 K,0.58,9.81 B USD,−10.47%
+AJG,AJG − Arthur J. Gallagher & Co.,318.10 USD,+0.75%,639.95 K,0.34,81.47 B USD,+31.67%
+AKA,AKA − a.k.a. Brands Holding Corp.,11.08 USD,−0.89%,2.04 K,0.18,118.72 M USD,
+AKAM,"AKAM − Akamai Technologies, Inc.",79.48 USD,+0.03%,1.16 M,0.45,11.62 B USD,−26.18%
+AKAN,AKAN − Akanda Corp.,1.37 USD,+5.38%,23.56 K,0.27,3.12 M USD,
+AKBA,"AKBA − Akebia Therapeutics, Inc.",3.62 USD,−0.28%,1.57 M,0.30,950.74 M USD,+2.76%
+AKRO,"AKRO − Akero Therapeutics, Inc.",51.77 USD,−0.21%,404.82 K,0.20,4.13 B USD,−17.04%
+AKYA,"AKYA − Akoya BioSciences, Inc.",1.36 USD,+0.74%,309.67 K,0.44,67.94 M USD,+34.87%
+AL,AL − Air Lease Corporation,59.75 USD,+1.39%,467.49 K,0.63,6.68 B USD,+15.24%
+ALAB,"ALAB − Astera Labs, Inc.",90.80 USD,+2.52%,2.44 M,0.39,14.97 B USD,
+ALB,ALB − Albemarle Corporation,67.21 USD,−1.15%,2.32 M,0.63,7.91 B USD,2.41%
+ALBT,ALBT − Avalon GloboCare Corp.,2.68 USD,−3.94%,20.54 K,0.11,5.71 M USD,
+ALCO,"ALCO − Alico, Inc.",33.81 USD,−0.73%,12.23 K,0.15,258.38 M USD,0.59%
+ALDF,ALDF − Aldel Financial II Inc.,10.47 USD,+0.19%,29.73 K,0.33,312.72 M USD,
+ALDX,"ALDX − Aldeyra Therapeutics, Inc.",4.30 USD,+7.50%,757.11 K,0.61,257.55 M USD,
+ALE,"ALE − Allete, Inc.",64.86 USD,+0.14%,323.94 K,0.71,3.76 B USD,−23.44%
+ALEC,"ALEC − Alector, Inc.",1.51 USD,+0.67%,233.29 K,0.37,150.99 M USD,+9.21%
+ALF,ALF − Centurion Acquisition Corp.,10.50 USD,−0.14%,56.2 K,12.44,301.88 M USD,
+ALG,"ALG − Alamo Group, Inc.",226.21 USD,+0.32%,42.36 K,0.25,2.73 B USD,−14.62%
+ALGM,"ALGM − Allegro MicroSystems, Inc.",35.93 USD,+0.59%,683.7 K,0.28,6.64 B USD,
+ALGN,"ALGN − Align Technology, Inc.",196.82 USD,−0.08%,712.8 K,0.76,14.27 B USD,−9.45%
+ALGS,"ALGS − Aligos Therapeutics, Inc.",7.84 USD,+7.25%,96 K,1.02,47.94 M USD,−9.47%
+ALGT,ALGT − Allegiant Travel Company,60.29 USD,+2.05%,325.09 K,0.85,1.1 B USD,1.00%
+ALHC,"ALHC − Alignment Healthcare, Inc.",13.57 USD,−0.29%,1.99 M,0.52,2.68 B USD,+43.50%
+ALIT,"ALIT − Alight, Inc.",5.98 USD,+1.01%,4.97 M,0.58,3.22 B USD,2.01%
+ALK,"ALK − Alaska Air Group, Inc.",51.05 USD,+0.33%,1.72 M,0.65,6.2 B USD,+46.87%
+ALKS,ALKS − Alkermes plc,28.85 USD,−0.52%,1.12 M,0.56,4.76 B USD,−17.17%
+ALKT,"ALKT − Alkami Technology, Inc.",30.64 USD,+4.82%,619.66 K,0.43,3.16 B USD,+38.37%
+ALL,ALL − Allstate Corporation (The),198.00 USD,+1.70%,963 K,0.44,52.43 B USD,1.94%
+ALLE,ALLE − Allegion plc,148.11 USD,+0.11%,411.79 K,0.43,12.74 B USD,+16.19%
+ALLO,"ALLO − Allogene Therapeutics, Inc.",1.19 USD,−0.83%,1.38 M,0.47,260.29 M USD,+31.43%
+ALLR,"ALLR − Allarity Therapeutics, Inc.",1.01 USD,+1.00%,88.58 K,0.16,15.23 M USD,
+ALLT,ALLT − Allot Ltd.,8.53 USD,+0.12%,424.16 K,0.35,381.67 M USD,
+ALLY,ALLY − Ally Financial Inc.,41.21 USD,+0.76%,1.98 M,0.62,12.66 B USD,−44.37%
+ALMS,ALMS − Alumis Inc.,3.40 USD,+3.66%,444.41 K,0.40,350.84 M USD,
+ALMU,"ALMU − Aeluma, Inc.",17.34 USD,+12.67%,282.09 K,0.51,273.89 M USD,
+ALNT,ALNT − Allient Inc.,38.76 USD,+1.81%,71.68 K,0.54,656.16 M USD,0.31%
+ALNY,"ALNY − Alnylam Pharmaceuticals, Inc.",331.91 USD,+0.65%,431.16 K,0.42,43.28 B USD,+21.99%
+ALOT,"ALOT − AstroNova, Inc.",12.07 USD,−3.21%,13.72 K,0.54,91.69 M USD,
+ALRM,"ALRM − Alarm.com Holdings, Inc.",57.69 USD,+1.09%,163.54 K,0.48,2.87 B USD,+39.85%
+ALRS,ALRS − Alerus Financial Corporation,22.84 USD,+1.83%,62.64 K,0.72,579.35 M USD,3.55%
+ALSN,"ALSN − Allison Transmission Holdings, Inc.",97.93 USD,+0.23%,828.29 K,0.96,8.25 B USD,+15.40%
+ALT,"ALT − Altimmune, Inc.",4.76 USD,−2.86%,6.33 M,0.35,386.07 M USD,+21.09%
+ALTG,ALTG − Alta Equipment Group Inc.,7.62 USD,+4.67%,112.23 K,0.33,252.92 M USD,2.99%
+ALTI,"ALTI − AlTi Global, Inc.",4.14 USD,+0.24%,160.84 K,0.65,600.23 M USD,−0.93%
+ALTO,"ALTO − Alto Ingredients, Inc.",1.24 USD,+0.81%,254.34 K,0.85,95.74 M USD,
+ALTS,ALTS − ALT5 Sigma Corporation,8.23 USD,+4.44%,163.41 K,0.47,143.65 M USD,
+ALUR,"ALUR − Allurion Technologies, Inc.",2.51 USD,−1.95%,22.55 K,0.43,18.72 M USD,
+ALV,"ALV − Autoliv, Inc.",117.74 USD,−0.51%,732.43 K,0.78,9.1 B USD,+35.13%
+ALVO,ALVO − Alvotech,9.19 USD,+2.91%,202.74 K,1.01,2.77 B USD,
+ALXO,ALXO − ALX Oncology Holdings Inc.,0.4601 USD,+3.39%,235.62 K,0.28,24.59 M USD,+33.43%
+ALZN,"ALZN − Alzamend Neuro, Inc.",2.94 USD,−2.00%,89.38 K,0.37,2.35 M USD,
+AM,AM − Antero Midstream Corporation,18.11 USD,−0.77%,1.77 M,0.51,8.68 B USD,+6.89%
+AMAL,AMAL − Amalgamated Financial Corp.,33.35 USD,+1.52%,121.61 K,0.47,1.02 B USD,+10.15%
+AMAT,"AMAT − Applied Materials, Inc.",191.05 USD,+0.55%,3.57 M,0.44,153.32 B USD,−5.59%
+AMBA,"AMBA − Ambarella, Inc.",67.32 USD,+1.72%,512.3 K,0.30,2.86 B USD,+41.55%
+AMBC,"AMBC − Ambac Financial Group, Inc.",7.19 USD,+1.41%,492.03 K,0.56,333.81 M USD,
+AMBI,AMBI − Ambipar Emergency Response,4.72 USD,−0.84%,57.81 K,3.01,261.63 M USD,
+AMBP,AMBP − Ardagh Metal Packaging S.A.,4.51 USD,+1.81%,680.73 K,0.38,2.7 B USD,8.87%
+AMC,"AMC − AMC Entertainment Holdings, Inc.",2.95 USD,+2.43%,6.59 M,0.72,1.28 B USD,+26.07%
+AMCR,AMCR − Amcor plc,9.63 USD,−0.62%,20.32 M,0.59,22.2 B USD,+23.82%
+AMCX,AMCX − AMC Networks Inc.,6.15 USD,+0.33%,209.59 K,0.32,276.3 M USD,
+AMD,"AMD − Advanced Micro Devices, Inc.",137.91 USD,−0.44%,28.65 M,0.47,223.61 B USD,
+AME,"AME − AMETEK, Inc.",184.19 USD,+1.21%,719.34 K,0.49,42.53 B USD,+7.32%
+AMED,AMED − Amedisys Inc,96.10 USD,+0.15%,355.26 K,0.64,3.15 B USD,
+AMG,"AMG − Affiliated Managers Group, Inc.",201.45 USD,+0.47%,401.71 K,1.44,5.73 B USD,−29.26%
+AMGN,AMGN − Amgen Inc.,298.24 USD,+0.47%,1.52 M,0.43,160.37 B USD,3.10%
+AMIX,"AMIX − Autonomix Medical, Inc.",1.42 USD,−6.58%,127.71 K,0.03,3.95 M USD,
+AMKR,"AMKR − Amkor Technology, Inc.",22.23 USD,−0.31%,824.8 K,0.44,5.49 B USD,−15.53%
+AMLX,"AMLX − Amylyx Pharmaceuticals, Inc.",6.30 USD,−4.11%,1.38 M,0.48,561.59 M USD,
+AMN,AMN − AMN Healthcare Services Inc,21.92 USD,−0.41%,367.63 K,0.49,839.2 M USD,
+AMOD,"AMOD − Alpha Modus Holdings, Inc.",1.16 USD,0.00%,32.52 K,0.26,16.04 M USD,
+AMP,"AMP − Ameriprise Financial, Inc.",543.30 USD,+0.16%,264.14 K,0.48,51.73 B USD,+0.16%
+AMPG,"AMPG − Amplitech Group, Inc.",2.13 USD,−0.47%,180.48 K,0.90,43.82 M USD,−3.31%
+AMPH,"AMPH − Amphastar Pharmaceuticals, Inc.",23.20 USD,−1.61%,221.78 K,0.41,1.09 B USD,−5.04%
+AMPL,"AMPL − Amplitude, Inc.",12.72 USD,+3.75%,1.27 M,1.01,1.66 B USD,−4.21%
+AMPX,"AMPX − Amprius Technologies, Inc.",4.68 USD,+6.85%,5.67 M,0.90,564.16 M USD,+4.24%
+AMPY,AMPY − Amplify Energy Corp.,3.25 USD,−1.22%,396.09 K,0.21,131.09 M USD,−46.31%
+AMR,"AMR − Alpha Metallurgical Resources, Inc.",116.64 USD,−1.81%,354.55 K,0.71,1.52 B USD,
+AMRC,"AMRC − Ameresco, Inc.",16.81 USD,+3.32%,255.29 K,0.48,884.27 M USD,−7.43%
+AMRK,"AMRK − A-Mark Precious Metals, Inc.",22.84 USD,+0.48%,100.45 K,0.33,562.43 M USD,3.50%
+AMRX,"AMRX − Amneal Pharmaceuticals, Inc.",8.42 USD,+0.60%,898.79 K,0.43,2.64 B USD,
+AMS,AMS − American Shared Hospital Services,2.49 USD,+2.36%,2.52 K,0.11,16.06 M USD,
+AMSC,AMSC − American Superconductor Corporation,39.90 USD,+1.81%,885.58 K,0.68,1.74 B USD,
+AMSF,"AMSF − AMERISAFE, Inc.",43.79 USD,+1.58%,67.72 K,0.39,834.21 M USD,−22.74%
+AMST,AMST − Amesite Inc.,2.77 USD,−0.72%,9.45 K,0.23,12.67 M USD,+16.78%
+AMTB,AMTB − Amerant Bancorp Inc.,19.64 USD,+2.34%,149.16 K,0.64,821.52 M USD,1.83%
+AMTM,"AMTM − Amentum Holdings, Inc.",24.21 USD,−0.37%,814.09 K,0.41,5.89 B USD,
+AMTX,"AMTX − Aemetis, Inc",3.06 USD,+16.79%,1.8 M,1.23,169.43 M USD,
+AMWD,AMWD − American Woodmark Corporation,56.61 USD,−0.12%,69.88 K,0.33,821.04 M USD,−8.99%
+AMWL,AMWL − American Well Corporation,8.51 USD,−0.93%,31.17 K,0.70,134.54 M USD,
+AMZE,"AMZE − Amaze Holdings, Inc.",9.37 USD,+2.80%,77.47 K,0.62,49.45 M USD,
+AMZN,"AMZN − Amazon.com, Inc.",223.41 USD,+1.59%,29.63 M,0.56,2.37 T USD,
+AN,"AN − AutoNation, Inc.",212.50 USD,+0.24%,253.25 K,0.55,8.01 B USD,−19.84%
+ANAB,"ANAB − AnaptysBio, Inc.",23.75 USD,−0.54%,212.76 K,0.45,697.79 M USD,+21.00%
+ANDE,"ANDE − The Andersons, Inc.",38.43 USD,−0.16%,98.75 K,0.23,1.31 B USD,−10.75%
+ANEB,"ANEB − Anebulo Pharmaceuticals, Inc.",1.68 USD,−7.18%,10.67 K,0.41,69.02 M USD,+26.34%
+ANET,"ANET − Arista Networks, Inc.",102.52 USD,+1.37%,5.3 M,0.45,128.76 B USD,+31.52%
+ANF,ANF − Abercrombie & Fitch Company,91.60 USD,+1.95%,1.85 M,0.87,4.36 B USD,+26.34%
+ANGH,ANGH − Anghami Inc.,0.4998 USD,+4.08%,5.24 K,0.50,33.42 M USD,
+ANGI,ANGI − Angi Inc.,16.74 USD,+2.32%,632.24 K,0.35,803.3 M USD,
+ANGO,"ANGO − AngioDynamics, Inc.",9.58 USD,+2.02%,273.56 K,0.50,389.01 M USD,
+ANIK,ANIK − Anika Therapeutics Inc.,11.25 USD,0.00%,28.81 K,0.23,161.34 M USD,+26.16%
+ANIP,"ANIP − ANI Pharmaceuticals, Inc.",65.28 USD,+0.09%,98.5 K,0.35,1.41 B USD,
+ANIX,"ANIX − Anixa Biosciences, Inc.",3.23 USD,+1.25%,38.26 K,0.31,104.04 M USD,−2.11%
+ANNA,"ANNA − AleAnna, Inc.",6.30 USD,+7.51%,41.82 K,1.13,419.92 M USD,
+ANNX,"ANNX − Annexon, Inc.",2.89 USD,+2.85%,1.88 M,1.22,317.07 M USD,+19.76%
+ANRO,"ANRO − Alto Neuroscience, Inc.",2.35 USD,+2.17%,83.67 K,0.15,63.62 M USD,
+ANSC,ANSC − Agriculture & Natural Solutions Acquisition Corporation,10.85 USD,+0.18%,502,0.01,467.91 M USD,
+ANSS,"ANSS − ANSYS, Inc.",367.48 USD,+4.04%,874.21 K,1.53,32.31 B USD,+35.60%
+ANTA,ANTA − Antalpha Platform Holding Company,11.67 USD,+1.48%,29.84 K,0.38,269.58 M USD,
+ANTE,ANTE − AirNet Technology Inc.,0.6500 USD,−0.15%,9.35 K,0.16,19.43 M USD,
+ANTX,"ANTX − AN2 Therapeutics, Inc.",1.05 USD,−2.78%,66.61 K,0.52,31.68 M USD,+41.39%
+ANVS,"ANVS − Annovis Bio, Inc.",2.36 USD,−0.84%,191.02 K,0.35,45.99 M USD,
+ANY,ANY − Sphere 3D Corp.,0.6246 USD,+2.81%,441.71 K,0.83,16.53 M USD,
+AOMD,"AOMD − Angel Oak Mortgage REIT, Inc. 9.750% Senior Notes due 2030",24.70 USD,+0.49%,12.98 K,0.84,227.95 M USD,−18.19%
+AON,AON − Aon plc,354.76 USD,+0.91%,640.71 K,0.43,76.61 B USD,−8.03%
+AORT,"AORT − Artivion, Inc.",30.72 USD,−0.42%,118.11 K,0.30,1.31 B USD,
+AOS,AOS − A.O. Smith Corporation,67.92 USD,−0.25%,658.94 K,0.45,9.65 B USD,−7.02%
+AOSL,AOSL − Alpha and Omega Semiconductor Limited,27.80 USD,+0.31%,104.45 K,0.34,827.18 M USD,
+AOUT,"AOUT − American Outdoor Brands, Inc.",10.62 USD,+0.76%,100.77 K,0.29,135.49 M USD,
+AP,AP − Ampco-Pittsburgh Corporation,2.90 USD,0.00%,24.68 K,0.39,58.27 M USD,
+APA,APA − APA Corporation,19.53 USD,+0.21%,3.51 M,0.39,7.05 B USD,5.12%
+APAM,APAM − Artisan Partners Asset Management Inc.,46.49 USD,−0.02%,298.79 K,0.44,3.75 B USD,+10.42%
+APD,"APD − Air Products and Chemicals, Inc.",291.84 USD,+0.53%,682.38 K,0.46,64.95 B USD,−37.75%
+APDN,"APDN − Applied DNA Sciences, Inc.",4.63 USD,−6.19%,57.28 K,0.32,2.4 M USD,
+APEI,"APEI − American Public Education, Inc.",30.21 USD,+3.21%,165.78 K,0.45,544.98 M USD,
+APG,APG − APi Group Corporation,34.33 USD,+2.26%,1.28 M,0.12,14.39 B USD,
+APGE,"APGE − Apogee Therapeutics, Inc.",47.46 USD,+7.08%,507.96 K,0.59,2.83 B USD,
+APH,APH − Amphenol Corporation,99.46 USD,+0.95%,3.18 M,0.29,120.31 B USD,+26.14%
+APLD,APLD − Applied Digital Corporation,10.45 USD,−1.04%,17.88 M,0.47,2.35 B USD,
+APLM,APLM − Apollomics Inc.,6.14 USD,−6.40%,34.94 K,3.46,6.77 M USD,
+APLS,"APLS − Apellis Pharmaceuticals, Inc.",18.26 USD,+2.47%,891.12 K,0.43,2.29 B USD,+48.16%
+APLT,"APLT − Applied Therapeutics, Inc.",0.3200 USD,−5.41%,1.86 M,0.55,45.3 M USD,
+APM,APM − Aptorum Group Limited,0.9600 USD,+4.18%,15.26 K,0.64,6.86 M USD,+13.91%
+APO,"APO − Apollo Global Management, Inc. (New)",144.47 USD,+1.18%,1.4 M,0.42,82.56 B USD,−36.81%
+APOG,"APOG − Apogee Enterprises, Inc.",43.27 USD,+0.14%,185.2 K,0.35,931.58 M USD,2.36%
+APP,APP − Applovin Corporation,341.64 USD,+1.68%,3.53 M,0.50,115.61 B USD,
+APPF,"APPF − AppFolio, Inc.",235.49 USD,+1.22%,159.12 K,0.55,8.48 B USD,
+APPN,APPN − Appian Corporation,30.48 USD,+1.13%,267.94 K,0.35,2.26 B USD,+43.36%
+APPS,"APPS − Digital Turbine, Inc.",6.03 USD,+3.08%,3.75 M,0.38,645.1 M USD,
+APRE,"APRE − Aprea Therapeutics, Inc.",1.74 USD,+2.35%,9.12 K,0.11,9.62 M USD,+28.85%
+APT,"APT − Alpha Pro Tech, Ltd.",4.75 USD,−2.26%,5.94 K,0.46,51.6 M USD,−0.72%
+APTV,APTV − Aptiv PLC,72.56 USD,+0.51%,1.05 M,0.37,15.8 B USD,−43.09%
+APUS,"APUS − Apimeds Pharmaceuticals US, Inc.",1.78 USD,+2.30%,15.46 K,0.65,20.61 M USD,
+APVO,APVO − Aptevo Therapeutics Inc.,3.04 USD,0.00%,130.19 K,0.01,9.8 M USD,
+APWC,APWC − Asia Pacific Wire & Cable Corporation Limited,1.68 USD,−0.59%,488,0.05,34.64 M USD,
+APYX,APYX − Apyx Medical Corporation,2.29 USD,+6.51%,78.45 K,0.84,86.55 M USD,+16.76%
+AQB,"AQB − AquaBounty Technologies, Inc.",0.7610 USD,−0.52%,28.94 K,0.09,2.94 M USD,
+AQMS,"AQMS − Aqua Metals, Inc.",0.5252 USD,−5.45%,206.23 K,0.55,5.22 M USD,+23.97%
+AQST,"AQST − Aquestive Therapeutics, Inc.",3.72 USD,+1.09%,625.35 K,0.47,369.5 M USD,−37.31%
+AR,AR − Antero Resources Corporation,37.26 USD,+0.16%,3.66 M,0.68,11.57 B USD,
+ARAI,ARAI − Arrive AI Inc.,12.15 USD,+15.28%,461.25 K,1.00,400.82 M USD,
+ARAY,ARAY − Accuray Incorporated,1.42 USD,+2.16%,486.93 K,0.49,146.28 M USD,
+ARBB,ARBB − ARB IOT Group Limited,6.06 USD,−2.26%,5.93 K,0.56,10.7 M USD,+9.03%
+ARBE,ARBE − Arbe Robotics Ltd.,1.75 USD,−1.13%,690.55 K,0.36,184.04 M USD,+6.05%
+ARCB,ARCB − ArcBest Corporation,83.03 USD,−1.55%,202.19 K,0.39,1.9 B USD,0.58%
+ARCC,ARCC − Ares Capital Corporation,22.41 USD,+0.67%,2.21 M,0.52,15.56 B USD,−29.63%
+ARCO,ARCO − Arcos Dorados Holdings Inc.,7.86 USD,+0.77%,610.42 K,0.38,1.66 B USD,−22.17%
+ARCT,ARCT − Arcturus Therapeutics Holdings Inc.,13.78 USD,+1.17%,172.65 K,0.31,373.72 M USD,+35.42%
+ARDT,"ARDT − Ardent Health, Inc.",13.39 USD,−0.22%,104.06 K,0.30,1.92 B USD,
+ARDX,"ARDX − Ardelyx, Inc.",4.27 USD,+1.91%,2.84 M,0.65,1.02 B USD,+21.29%
+AREB,"AREB − American Rebel Holdings, Inc.",1.28 USD,+4.07%,349.47 K,0.36,8.73 M USD,+28.64%
+AREC,AREC − American Resources Corporation,0.8708 USD,+4.39%,309.37 K,0.34,71.64 M USD,
+AREN,"AREN − The Arena Group Holdings, Inc.",6.20 USD,+2.65%,113.54 K,0.26,294.88 M USD,
+ARES,ARES − Ares Management Corporation,177.96 USD,−0.01%,684.37 K,0.42,38.26 B USD,−24.04%
+ARHS,"ARHS − Arhaus, Inc.",9.39 USD,−1.68%,1.44 M,1.04,1.32 B USD,−45.32%
+ARIS,"ARIS − Aris Water Solutions, Inc.",24.38 USD,−0.85%,283.13 K,0.33,1.44 B USD,+14.76%
+ARKO,ARKO − ARKO Corp.,4.64 USD,+0.43%,292.88 K,0.35,528.75 M USD,2.59%
+ARKR,ARKR − Ark Restaurants Corp.,9.01 USD,0.00%,907,0.09,32.49 M USD,−35.94%
+ARL,"ARL − American Realty Investors, Inc.",14.48 USD,0.00%,215,0.04,233.88 M USD,
+ARLO,"ARLO − Arlo Technologies, Inc.",17.60 USD,+3.96%,1.48 M,0.87,1.82 B USD,−18.43%
+ARLP,"ARLP − Alliance Resource Partners, L.P.",26.58 USD,−0.15%,125.36 K,0.52,3.41 B USD,10.53%
+ARMK,ARMK − Aramark,42.79 USD,−0.44%,1.39 M,0.71,11.21 B USD,−45.35%
+ARMP,"ARMP − Armata Pharmaceuticals, Inc.",2.17 USD,+11.86%,43.77 K,2.54,78.54 M USD,
+AROC,"AROC − Archrock, Inc.",24.70 USD,−0.08%,1.01 M,0.73,4.37 B USD,+43.75%
+AROW,AROW − Arrow Financial Corporation,28.02 USD,+1.30%,31.36 K,0.58,467.24 M USD,−1.20%
+ARQ,"ARQ − Arq, Inc.",5.86 USD,+1.74%,151.54 K,0.63,247.36 M USD,
+ARQQ,ARQQ − Arqit Quantum Inc.,35.08 USD,−1.54%,505.48 K,0.31,503.56 M USD,
+ARQT,"ARQT − Arcutis Biotherapeutics, Inc.",13.82 USD,+0.44%,778.04 K,0.37,1.65 B USD,
+ARRY,"ARRY − Array Technologies, Inc.",7.79 USD,+11.93%,6.67 M,0.45,1.19 B USD,
+ARTL,"ARTL − Artelo Biosciences, Inc.",10.05 USD,−8.88%,91.31 K,0.03,6.87 M USD,+4.37%
+ARTNA,ARTNA − Artesian Resources Corporation,33.77 USD,−0.12%,13.91 K,0.41,348.44 M USD,+21.99%
+ARTV,"ARTV − Artiva Biotherapeutics, Inc.",1.61 USD,+1.26%,78.16 K,0.17,39.22 M USD,
+ARTW,"ARTW − Art's-Way Manufacturing Co., Inc.",2.27 USD,+3.18%,6.9 K,0.14,11.55 M USD,
+ARVN,"ARVN − Arvinas, Inc.",7.95 USD,+0.63%,826.66 K,0.45,580.28 M USD,
+ARW,"ARW − Arrow Electronics, Inc.",132.17 USD,+0.17%,240.85 K,0.49,6.86 B USD,−42.86%
+ARWR,"ARWR − Arrowhead Pharmaceuticals, Inc.",16.79 USD,−0.65%,800.54 K,0.50,2.32 B USD,
+AS,"AS − Amer Sports, Inc.",38.87 USD,+1.78%,1.63 M,0.34,21.53 B USD,
+ASAN,"ASAN − Asana, Inc.",13.97 USD,+3.40%,2.42 M,0.61,3.29 B USD,+13.74%
+ASB,ASB − Associated Banc-Corp,25.86 USD,+0.94%,710.41 K,0.49,4.29 B USD,−12.98%
+ASBP,"ASBP − Aspire Biopharma Holdings, Inc.",0.2920 USD,+2.38%,607.52 K,0.09,14.46 M USD,
+ASC,ASC − Ardmore Shipping Corporation,10.25 USD,+0.49%,286.09 K,0.39,416.4 M USD,−12.08%
+ASGN,ASGN − ASGN Incorporated,52.84 USD,+1.23%,338.25 K,0.55,2.31 B USD,−18.82%
+ASH,ASH − Ashland Inc.,53.68 USD,+0.43%,320.62 K,0.51,2.45 B USD,3.04%
+ASIC,ASIC − Ategrity Specialty Insurance Company Holdings,21.13 USD,+2.08%,29.43 K,0.23,994.52 M USD,
+ASIX,ASIX − AdvanSix Inc.,25.29 USD,+0.76%,90.94 K,0.47,678.09 M USD,2.53%
+ASLE,ASLE − AerSale Corporation,6.20 USD,+0.98%,184.94 K,0.65,329.89 M USD,
+ASMB,"ASMB − Assembly Biosciences, Inc.",18.14 USD,−0.87%,15.69 K,0.28,138.55 M USD,+42.41%
+ASNS,"ASNS − Actelis Networks, Inc.",0.5911 USD,+1.81%,31.23 K,0.15,5.45 M USD,
+ASO,"ASO − Academy Sports and Outdoors, Inc.",47.25 USD,−0.34%,577.47 K,0.35,3.14 B USD,−17.08%
+ASPC,ASPC − A SPAC III Acquisition Corp.,10.23 USD,0.00%,1.93 K,0.10,67.06 M USD,
+ASPI,ASPI − ASP Isotopes Inc.,6.98 USD,−0.71%,1.21 M,0.35,585.45 M USD,−16.23%
+ASPN,"ASPN − Aspen Aerogels, Inc.",6.46 USD,+1.89%,673.51 K,0.42,530.85 M USD,
+ASPS,ASPS − Altisource Portfolio Solutions S.A.,9.78 USD,+0.41%,36.13 K,0.39,108.74 M USD,
+ASRT,"ASRT − Assertio Holdings, Inc.",0.6530 USD,−3.23%,125.87 K,0.50,62.54 M USD,
+ASRV,ASRV − AmeriServ Financial Inc.,3.07 USD,+1.66%,37.43 K,1.05,50.71 M USD,3.91%
+ASST,ASST − Asset Entities Inc.,4.27 USD,+1.67%,2.62 M,1.35,70.84 M USD,+28.43%
+ASTC,ASTC − Astrotech Corporation,5.65 USD,+0.89%,960,0.07,9.57 M USD,−24.76%
+ASTE,"ASTE − Astec Industries, Inc.",42.60 USD,−0.68%,106.25 K,0.51,974.13 M USD,−39.53%
+ASTH,ASTH − Astrana Health Inc.,25.28 USD,+2.56%,159.84 K,0.50,1.26 B USD,−45.17%
+ASTI,"ASTI − Ascent Solar Technologies, Inc",2.54 USD,+19.81%,1.38 M,0.10,6.82 M USD,
+ASTL,ASTL − Algoma Steel Group Inc.,7.09 USD,−0.28%,303.2 K,0.26,743.98 M USD,2.95%
+ASTS,"ASTS − AST SpaceMobile, Inc.",45.60 USD,−0.24%,6.1 M,0.33,15.4 B USD,
+ASUR,ASUR − Asure Software Inc,11.35 USD,+5.04%,57.2 K,0.61,308.2 M USD,−20.60%
+ASYS,"ASYS − Amtech Systems, Inc.",4.48 USD,−1.10%,10.06 K,0.25,64.13 M USD,−46.14%
+ATAI,ATAI − ATAI Life Sciences N.V.,2.77 USD,+0.73%,4.12 M,0.49,556.09 M USD,
+ATCH,"ATCH − AtlasClear Holdings, Inc.",0.1987 USD,+2.95%,2.37 M,1.69,3.1 M USD,
+ATEC,"ATEC − Alphatec Holdings, Inc.",10.99 USD,+0.27%,777.4 K,0.43,1.61 B USD,+23.22%
+ATEN,"ATEN − A10 Networks, Inc.",20.14 USD,+1.92%,526.4 K,0.52,1.45 B USD,+9.56%
+ATER,"ATER − Aterian, Inc.",1.55 USD,−2.52%,105.43 K,0.31,15.39 M USD,
+ATEX,ATEX − Anterix Inc.,25.23 USD,+0.60%,114 K,0.39,471.7 M USD,−26.04%
+ATGE,ATGE − Adtalem Global Education Inc.,123.05 USD,+1.00%,287.27 K,0.53,4.42 B USD,
+ATGL,ATGL − Alpha Technology Group Limited,22.22 USD,+8.44%,3.77 K,1.19,339.13 M USD,
+ATHA,"ATHA − Athira Pharma, Inc.",0.3400 USD,+12.92%,320.32 K,1.96,13.27 M USD,+32.23%
+ATHR,"ATHR − Aether Holdings, Inc.",12.40 USD,−9.69%,18.67 K,0.47,150.06 M USD,
+ATI,ATI − ATI Inc.,86.85 USD,+1.44%,1.12 M,0.50,12.25 B USD,+10.51%
+ATII,ATII − Archimedes Tech SPAC Partners II Co.,10.23 USD,+0.11%,804,0.01,302.59 M USD,
+ATKR,ATKR − Atkore Inc.,75.14 USD,−0.23%,248.02 K,0.46,2.53 B USD,1.72%
+ATLC,ATLC − Atlanticus Holdings Corporation,57.64 USD,+1.28%,30.71 K,0.39,871.88 M USD,+21.56%
+ATLN,ATLN − Atlantic International Corp.,2.13 USD,+3.40%,23.96 K,0.21,131.32 M USD,
+ATLO,ATLO − Ames National Corporation,18.58 USD,+2.26%,16 K,0.80,165.65 M USD,+14.91%
+ATLX,ATLX − Atlas Lithium Corporation,3.87 USD,0.00%,67.55 K,0.21,69.03 M USD,+42.46%
+ATMC,ATMC − AlphaTime Acquisition Corp,11.84 USD,+0.34%,101,0.03,41.08 M USD,−22.28%
+ATMU,ATMU − Atmus Filtration Technologies Inc.,37.78 USD,+1.18%,301.31 K,0.36,3.12 B USD,+12.41%
+ATMV,ATMV − AlphaVest Acquisition Corp,11.78 USD,−0.51%,101,0.00,45.41 M USD,−21.86%
+ATNF,ATNF − 180 Life Sciences Corp.,0.8806 USD,−1.93%,33.9 K,0.71,5.34 M USD,
+ATNI,"ATNI − ATN International, Inc.",17.48 USD,+1.75%,17.66 K,0.31,265.98 M USD,5.69%
+ATNM,"ATNM − Actinium Pharmaceuticals, Inc. (Delaware)",1.44 USD,+0.70%,118.73 K,0.16,44.92 M USD,+14.23%
+ATO,ATO − Atmos Energy Corporation,152.28 USD,+0.51%,412.88 K,0.46,24.19 B USD,+7.40%
+ATOM,ATOM − Atomera Incorporated,5.07 USD,+2.01%,184.79 K,0.23,155.67 M USD,+13.98%
+ATOS,"ATOS − Atossa Therapeutics, Inc.",0.8491 USD,+1.43%,468.25 K,0.20,109.68 M USD,+11.95%
+ATPC,ATPC − Agape ATP Corporation,1.36 USD,−1.45%,16.08 K,0.26,68.01 M USD,+16.68%
+ATR,"ATR − AptarGroup, Inc.",161.04 USD,+0.45%,235.1 K,0.58,10.64 B USD,+17.34%
+ATRA,"ATRA − Atara Biotherapeutics, Inc.",8.47 USD,+2.61%,18.89 K,0.56,57.52 M USD,
+ATRC,"ATRC − AtriCure, Inc.",31.76 USD,+1.18%,166.07 K,0.40,1.57 B USD,−1.20%
+ATRO,ATRO − Astronics Corporation,32.63 USD,+0.31%,444.57 K,0.58,1.16 B USD,
+ATUS,"ATUS − Altice USA, Inc.",2.22 USD,+6.22%,1.72 M,0.24,1.04 B USD,
+ATXG,ATXG − Addentax Group Corp.,0.6047 USD,−1.93%,1.44 M,0.36,6.1 M USD,+3.86%
+ATXS,"ATXS − Astria Therapeutics, Inc.",5.81 USD,+1.40%,188.85 K,0.50,327.88 M USD,+18.70%
+ATYR,"ATYR − aTyr Pharma, Inc.",5.31 USD,+0.57%,2.38 M,0.52,472.61 M USD,+10.73%
+AUB,AUB − Atlantic Union Bankshares Corporation,33.54 USD,+1.05%,599.68 K,0.26,4.78 B USD,−19.66%
+AUBN,"AUBN − Auburn National Bancorporation, Inc.",23.13 USD,−4.18%,678,0.30,80.81 M USD,4.67%
+AUDC,AUDC − AudioCodes Ltd.,9.64 USD,−1.23%,35.91 K,0.72,286.11 M USD,3.73%
+AUID,AUID − authID Inc.,5.42 USD,+1.50%,68.59 K,0.58,72.87 M USD,
+AUNA,AUNA − Auna SA,6.33 USD,+0.32%,8.14 K,0.11,468.5 M USD,
+AUPH,AUPH − Aurinia Pharmaceuticals Inc,7.59 USD,+1.34%,1.01 M,0.45,1.03 B USD,
+AUR,"AUR − Aurora Innovation, Inc.",5.30 USD,+2.51%,11.18 M,0.30,9.38 B USD,+14.01%
+AURA,"AURA − Aura Biosciences, Inc.",6.56 USD,+1.55%,127.52 K,0.44,406.75 M USD,−1.91%
+AUST,AUST − Austin Gold Corp.,1.38 USD,+2.99%,29.25 K,0.53,18.32 M USD,+34.67%
+AUUD,AUUD − Auddia Inc.,4.54 USD,−2.16%,399.73 K,3.54,2.82 M USD,
+AVA,AVA − Avista Corporation,38.36 USD,+0.68%,289.72 K,0.35,3.09 B USD,−2.69%
+AVAH,AVAH − Aveanna Healthcare Holdings Inc.,4.65 USD,+4.26%,480.69 K,0.91,907.19 M USD,
+AVAV,"AVAV − AeroVironment, Inc.",246.23 USD,−0.01%,2.59 M,0.88,11.25 B USD,−30.12%
+AVBP,"AVBP − ArriVent BioPharma, Inc.",20.77 USD,−1.56%,286.03 K,0.46,762.16 M USD,
+AVD,AVD − American Vanguard Corporation,4.15 USD,+2.98%,118.62 K,0.41,144.22 M USD,2.89%
+AVDL,AVDL − Avadel Pharmaceuticals plc,8.93 USD,+1.36%,361.57 K,0.17,865.25 M USD,
+AVDX,"AVDX − AvidXchange Holdings, Inc.",9.85 USD,+0.31%,1.89 M,0.76,2.03 B USD,
+AVGO,AVGO − Broadcom Inc.,275.18 USD,+1.96%,10.59 M,0.40,1.29 T USD,+14.45%
+AVIR,"AVIR − Atea Pharmaceuticals, Inc.",3.74 USD,+3.17%,286.95 K,0.63,320.07 M USD,+15.73%
+AVNS,"AVNS − Avanos Medical, Inc.",12.35 USD,−0.24%,144.22 K,0.28,571.11 M USD,
+AVNT,AVNT − Avient Corporation,34.43 USD,+0.03%,321.8 K,0.33,3.15 B USD,−5.49%
+AVNW,"AVNW − Aviat Networks, Inc.",24.82 USD,+0.85%,53.24 K,0.51,316.09 M USD,
+AVO,"AVO − Mission Produce, Inc.",12.08 USD,+0.50%,119.16 K,0.28,853.07 M USD,
+AVPT,"AVPT − AvePoint, Inc.",18.86 USD,+1.95%,578.13 K,0.39,3.83 B USD,
+AVR,AVR − Anteris Technologies Global Corp.,3.80 USD,+2.43%,209.04 K,0.54,137.04 M USD,
+AVT,"AVT − Avnet, Inc.",56.27 USD,+0.25%,467.46 K,0.51,4.72 B USD,−42.29%
+AVTR,"AVTR − Avantor, Inc.",13.88 USD,−0.07%,6.23 M,0.48,9.46 B USD,
+AVTX,"AVTX − Avalo Therapeutics, Inc.",4.96 USD,+0.40%,22.01 K,0.17,53.7 M USD,
+AVXL,AVXL − Anavex Life Sciences Corp.,10.79 USD,+2.08%,800.37 K,0.67,921.16 M USD,−12.03%
+AVY,AVY − Avery Dennison Corporation,183.24 USD,−0.10%,339.85 K,0.31,14.32 B USD,+27.01%
+AWI,AWI − Armstrong World Industries Inc,167.75 USD,+1.01%,298.18 K,0.85,7.28 B USD,+17.52%
+AWK,"AWK − American Water Works Company, Inc.",140.05 USD,−0.19%,683.75 K,0.54,27.31 B USD,+11.69%
+AWR,AWR − American States Water Company,77.16 USD,−0.30%,103.4 K,0.42,2.97 B USD,+5.97%
+AWRE,"AWRE − Aware, Inc.",1.83 USD,−0.54%,31.97 K,0.46,38.6 M USD,+25.72%
+AWX,AWX − Avalon Holdings Corporation,2.41 USD,−0.82%,1.8 K,0.21,9.4 M USD,
+AX,"AX − Axos Financial, Inc.",83.86 USD,+0.82%,328.43 K,0.77,4.73 B USD,−0.43%
+AXGN,"AXGN − Axogen, Inc.",10.93 USD,−1.18%,169.68 K,0.23,497.8 M USD,
+AXIL,"AXIL − AXIL Brands, Inc.",4.94 USD,−1.20%,6.11 K,0.36,32.85 M USD,
+AXL,"AXL − American Axle & Manufacturing Holdings, Inc.",4.38 USD,0.00%,2.73 M,0.63,519.74 M USD,
+AXON,"AXON − Axon Enterprise, Inc.",795.48 USD,+2.70%,268.67 K,0.39,61.93 B USD,+20.69%
+AXP,AXP − American Express Company,328.13 USD,+0.77%,1.54 M,0.43,229.88 B USD,+17.89%
+AXR,AXR − AMREP Corporation,21.72 USD,−0.05%,2.44 K,0.19,114.84 M USD,
+AXS,AXS − Axis Capital Holdings Limited,99.11 USD,+0.90%,661.69 K,0.75,7.8 B USD,1.78%
+AXSM,"AXSM − Axsome Therapeutics, Inc.",105.44 USD,+1.47%,245.79 K,0.37,5.19 B USD,+9.65%
+AXTA,AXTA − Axalta Coating Systems Ltd.,30.87 USD,−1.18%,1.69 M,0.64,6.75 B USD,
+AXTI,AXTI − AXT Inc,2.14 USD,+2.88%,185.47 K,0.61,97.59 M USD,−8.49%
+AYI,AYI − Acuity Inc.,305.38 USD,−0.21%,167.95 K,0.33,9.36 B USD,+3.23%
+AYRO,"AYRO − AYRO, Inc.",7.15 USD,−4.67%,198.13 K,3.29,3.88 M USD,
+AYTU,"AYTU − Aytu BioPharma, Inc.",2.38 USD,+4.15%,172.52 K,0.69,14.72 M USD,
+AZ,AZ − A2Z Cust2Mate Solutions Corp.,9.88 USD,+0.20%,79.19 K,0.29,346.19 M USD,−22.88%
+AZI,AZI − Autozi Internet Technology (Global) Ltd.,0.2250 USD,−2.53%,258.93 K,0.35,15.83 M USD,
+AZO,"AZO − AutoZone, Inc.","3,769.26 USD",+2.28%,84.77 K,0.44,63.05 B USD,+2.19%
+AZTA,"AZTA − Azenta, Inc.",33.23 USD,+1.16%,543.41 K,0.37,1.52 B USD,+48.51%
+AZTR,AZTR − Azitra Inc,0.2508 USD,−1.45%,289.9 K,0.28,4.32 M USD,
+AZZ,AZZ − AZZ Inc.,99.62 USD,−0.50%,130.24 K,0.44,2.98 B USD,−47.08%
+BA,BA − Boeing Company (The),215.92 USD,+1.83%,4.48 M,0.59,162.8 B USD,
+BAC,BAC − Bank of America Corporation,48.93 USD,+0.45%,21.62 M,0.46,368.53 B USD,+15.67%
+BACQ,BACQ − Bleichroeder Acquisition Corp. I,10.30 USD,0.00%,501,0.01,261.88 M USD,
+BAER,"BAER − Bridger Aerospace Group Holdings, Inc.",1.95 USD,+1.04%,141.87 K,0.46,106.75 M USD,
+BAFN,BAFN − BayFirst Financial Corp.,14.52 USD,+1.89%,6.95 K,0.32,59.95 M USD,2.20%
+BAH,BAH − Booz Allen Hamilton Holding Corporation,108.93 USD,+0.61%,1.58 M,0.72,13.52 B USD,1.95%
+BALL,BALL − Ball Corporation,58.73 USD,−0.02%,876.96 K,0.27,16.29 B USD,1.36%
+BALY,BALY − Bally's Corporation,11.17 USD,+0.45%,71.28 K,0.27,547.48 M USD,+15.16%
+BAM,BAM − Brookfield Asset Management Inc,56.81 USD,+2.29%,1.43 M,0.36,91.61 B USD,+25.54%
+BANC,"BANC − Banc of California, Inc.",14.76 USD,+1.10%,1.27 M,0.47,2.32 B USD,2.71%
+BAND,BAND − Bandwidth Inc.,16.05 USD,−0.37%,166.36 K,0.59,477.69 M USD,
+BANF,BANF − BancFirst Corporation,131.35 USD,+1.13%,50.28 K,0.33,4.37 B USD,+7.65%
+BANL,BANL − CBL International Limited,0.7848 USD,−14.41%,538.05 K,0.86,21.58 M USD,
+BANR,BANR − Banner Corporation,68.67 USD,+1.42%,133.2 K,0.52,2.37 B USD,+5.86%
+BAOS,BAOS − Baosheng Media Group Holdings Limited,2.75 USD,+4.56%,33.77 K,0.65,4.22 M USD,−37.60%
+BAP,BAP − Credicorp Ltd.,227.25 USD,+0.50%,228.6 K,0.72,18.07 B USD,+15.29%
+BARK,"BARK − BARK, Inc.",0.9127 USD,−2.70%,375.91 K,0.24,154.55 M USD,+10.45%
+BASE,"BASE − Couchbase, Inc.",24.42 USD,0.00%,350.57 K,0.11,1.34 B USD,+16.97%
+BATL,BATL − Battalion Oil Corporation,1.41 USD,+4.44%,112.1 K,0.16,23.2 M USD,+45.71%
+BATRA,"BATRA − Atlanta Braves Holdings, Inc. - Series A",49.55 USD,+1.04%,19.89 K,0.17,2.9 B USD,
+BAX,BAX − Baxter International Inc.,31.01 USD,−0.39%,1.43 M,0.39,15.91 B USD,2.58%
+BAYA,BAYA − Bayview Acquisition Corp,11.23 USD,+0.72%,103,0.00,61.11 M USD,
+BBAI,"BBAI − BigBear.ai, Inc.",7.75 USD,+2.51%,201.36 M,0.75,2.26 B USD,+13.58%
+BBCP,"BBCP − Concrete Pumping Holdings, Inc.",6.43 USD,+1.58%,25.24 K,0.25,334.54 M USD,−24.18%
+BBDC,"BBDC − Barings BDC, Inc.",9.28 USD,+0.54%,207.83 K,0.57,976.8 M USD,−24.60%
+BBGI,"BBGI − Beasley Broadcast Group, Inc.",4.08 USD,−3.32%,160.39 K,1.06,7.32 M USD,
+BBIO,"BBIO − BridgeBio Pharma, Inc.",43.99 USD,+2.71%,2.46 M,0.61,8.35 B USD,−9.37%
+BBLG,BBLG − Bone Biologics Corp,3.49 USD,−3.59%,131.13 K,0.05,4.67 M USD,
+BBNX,"BBNX − Beta Bionics, Inc.",13.52 USD,−4.38%,121.29 K,0.19,586.18 M USD,
+BBSI,"BBSI − Barrett Business Services, Inc.",43.17 USD,+0.90%,69.89 K,0.39,1.11 B USD,+7.06%
+BBW,"BBW − Build-A-Bear Workshop, Inc.",53.85 USD,+1.82%,96.62 K,0.35,711.28 M USD,+19.48%
+BBWI,"BBWI − Bath & Body Works, Inc.",33.14 USD,+1.10%,2.77 M,0.45,7.01 B USD,−3.81%
+BBY,"BBY − Best Buy Co., Inc.",72.10 USD,+0.71%,1.78 M,0.46,15.24 B USD,−28.34%
+BC,BC − Brunswick Corporation,59.44 USD,−0.70%,626.19 K,0.76,3.9 B USD,2.86%
+BCAB,"BCAB − BioAtla, Inc.",0.3761 USD,−5.43%,1.33 M,2.77,21.97 M USD,
+BCAL,BCAL − California BanCorp,16.53 USD,+1.41%,101.49 K,0.59,535.79 M USD,
+BCAX,BCAX − Bicara Therapeutics Inc.,9.03 USD,−1.85%,248.78 K,0.26,492.46 M USD,
+BCBP,"BCBP − BCB Bancorp, Inc. (NJ)",9.23 USD,+1.32%,76.7 K,0.71,158.41 M USD,6.93%
+BCC,"BCC − Boise Cascade, L.L.C.",93.15 USD,−0.64%,135.14 K,0.30,3.51 B USD,−34.93%
+BCDA,"BCDA − BioCardia, Inc.",2.12 USD,+1.73%,3.04 M,44.95,10.98 M USD,
+BCG,"BCG − Binah Capital Group, Inc.",2.00 USD,+0.50%,880,0.11,33.2 M USD,
+BCLI,BCLI − Brainstorm Cell Therapeutics Inc.,1.16 USD,−0.85%,98.01 K,0.25,11.41 M USD,
+BCML,BCML − BayCom Corp,28.89 USD,+0.03%,32.08 K,0.81,317.99 M USD,−5.15%
+BCO,BCO − Brinks Company (The),94.46 USD,+1.21%,140.37 K,0.35,3.97 B USD,+42.12%
+BCPC,BCPC − Balchem Corporation,165.02 USD,+1.12%,83.02 K,0.43,5.38 B USD,+18.20%
+BCRX,"BCRX − BioCryst Pharmaceuticals, Inc.",8.94 USD,−0.89%,1.41 M,0.35,1.87 B USD,
+BCSF,"BCSF − Bain Capital Specialty Finance, Inc.",15.25 USD,+0.66%,165.38 K,0.50,989.24 M USD,−12.67%
+BDC,BDC − Belden Inc,121.77 USD,+1.13%,116.71 K,0.37,4.81 B USD,+1.41%
+BDL,"BDL − Flanigan's Enterprises, Inc.",29.00 USD,−16.47%,743,0.28,53.9 M USD,+14.76%
+BDMD,BDMD − Baird Medical Investment Holdings Ltd,3.91 USD,−0.51%,54.57 K,0.12,139.7 M USD,
+BDSX,"BDSX − Biodesix, Inc.",0.2716 USD,−1.24%,505.38 K,0.44,39.81 M USD,+47.48%
+BDTX,"BDTX − Black Diamond Therapeutics, Inc.",2.58 USD,−0.77%,472.33 K,0.29,146.71 M USD,
+BDX,"BDX − Becton, Dickinson and Company",176.16 USD,−0.63%,1.06 M,0.34,50.49 B USD,+15.32%
+BE,BE − Bloom Energy Corporation,24.24 USD,+7.45%,4.39 M,0.77,5.63 B USD,
+BEAG,BEAG − Bold Eagle Acquisition Corp.,10.45 USD,0.00%,70.06 K,0.21,600.54 M USD,
+BEAM,BEAM − Beam Therapeutics Inc.,20.01 USD,+0.65%,1.36 M,0.65,2.01 B USD,
+BEAT,"BEAT − Heartbeam, Inc.",1.30 USD,+0.78%,67.17 K,0.41,43.95 M USD,−20.28%
+BEEM,BEEM − Beam Global,1.61 USD,+8.05%,400.62 K,0.17,24.84 M USD,−39.60%
+BEEP,BEEP − Mobile Infrastructure Corporation,4.59 USD,+0.88%,15.4 K,0.07,194.62 M USD,
+BELFA,BELFA − Bel Fuse Inc.,93.44 USD,+4.36%,8.47 K,0.83,1.25 B USD,−42.24%
+BEN,"BEN − Franklin Resources, Inc.",24.88 USD,+0.36%,2.47 M,0.54,13.07 B USD,5.10%
+BENF,BENF − Beneficient,0.2869 USD,−4.05%,106.84 K,0.76,2.49 M USD,
+BEPC,BEPC − Brookfield Renewable Corporation,34.11 USD,+2.71%,1.2 M,1.17,4.94 B USD,4.27%
+BETR,BETR − Better Home & Finance Holding Company,13.18 USD,+5.95%,23.5 K,0.15,200.4 M USD,
+BF.A,BF.A − Brown Forman Inc,28.92 USD,−1.26%,65.46 K,0.21,13.47 B USD,−14.40%
+BFAM,BFAM − Bright Horizons Family Solutions Inc.,120.58 USD,−0.28%,157.12 K,0.25,6.9 B USD,
+BFC,BFC − Bank First Corporation,123.79 USD,+0.64%,241.66 K,1.28,1.23 B USD,−11.20%
+BFH,"BFH − Bread Financial Holdings, Inc.",60.40 USD,+0.87%,353.48 K,0.42,2.81 B USD,−29.28%
+BFIN,BFIN − BankFinancial Corporation,11.86 USD,+1.63%,32.16 K,0.21,147.78 M USD,−47.11%
+BFLY,"BFLY − Butterfly Network, Inc.",1.94 USD,−1.02%,4.65 M,0.71,479.74 M USD,+49.44%
+BFRG,"BFRG − Bullfrog AI Holdings, Inc.",1.63 USD,+3.16%,87.12 K,0.55,15.35 M USD,+11.28%
+BFRI,BFRI − Biofrontera Inc.,0.7000 USD,+1.43%,106.86 K,0.58,6.61 M USD,
+BFST,"BFST − Business First Bancshares, Inc.",26.19 USD,+1.04%,57.5 K,0.35,777.71 M USD,−3.88%
+BG,BG − Bunge Limited,78.44 USD,−3.62%,2.08 M,0.98,10.54 B USD,−36.48%
+BGC,"BGC − BGC Group, Inc.",10.85 USD,+0.84%,1.11 M,0.25,5.3 B USD,0.74%
+BGFV,BGFV − Big 5 Sporting Goods Corporation,1.42 USD,+0.71%,220.99 K,0.49,32.58 M USD,3.52%
+BGI,BGI − Birks Group Inc.,0.9760 USD,+2.74%,81.35 K,0.65,18.85 M USD,
+BGL,BGL − Blue Gold Limited,107.64 USD,−19.07%,183.42 K,1.45,3.29 B USD,
+BGLC,BGLC − BioNexus Gene Lab Corp,6.43 USD,−5.72%,932.08 K,0.17,11.55 M USD,+27.28%
+BGM,BGM − BGM Group Ltd.,10.03 USD,+2.77%,27.78 K,0.27,1.85 B USD,
+BGS,"BGS − B&G Foods, Inc.",4.51 USD,−0.66%,1.65 M,0.53,359.89 M USD,16.85%
+BGSF,"BGSF − BGSF, Inc.",7.34 USD,+0.55%,98.07 K,0.57,81.54 M USD,
+BH,BH − Biglari Holdings Inc.,290.00 USD,−0.74%,10.76 K,0.57,889.53 M USD,
+BHAT,BHAT − Blue Hat Interactive Entertainment Technology,1.74 USD,+2.35%,50.59 K,0.50,12.6 M USD,
+BHB,"BHB − Bar Harbor Bankshares, Inc.",32.23 USD,+2.38%,36.79 K,0.71,493.82 M USD,+3.30%
+BHE,"BHE − Benchmark Electronics, Inc.",40.32 USD,+0.75%,161.35 K,0.44,1.46 B USD,−21.08%
+BHF,"BHF − Brighthouse Financial, Inc.",53.34 USD,−0.82%,750.62 K,0.63,3.06 B USD,
+BHLB,"BHLB − Berkshire Hills Bancorp, Inc.",27.04 USD,+2.04%,423.16 K,0.73,1.25 B USD,2.66%
+BHRB,BHRB − Burke & Herbert Financial Services Corp.,63.87 USD,+1.35%,103.53 K,1.01,958.4 M USD,+29.69%
+BHVN,BHVN − Biohaven Ltd.,14.63 USD,−0.88%,753.89 K,0.34,1.49 B USD,−37.00%
+BIAF,"BIAF − bioAffinity Technologies, Inc.",0.2724 USD,−6.07%,667.86 K,0.03,7.75 M USD,+22.41%
+BIGC,"BIGC − BigCommerce Holdings, Inc. - Series 1",5.13 USD,+1.58%,422.64 K,0.55,410.9 M USD,
+BIIB,BIIB − Biogen Inc.,132.87 USD,−0.24%,633.33 K,0.44,19.47 B USD,+26.48%
+BILL,"BILL − BILL Holdings, Inc.",48.21 USD,+3.54%,1.61 M,0.60,4.97 B USD,
+BIO,"BIO − Bio-Rad Laboratories, Inc.",251.56 USD,+0.36%,109.09 K,0.26,6.84 B USD,
+BIOA,"BIOA − BioAge Labs, Inc.",4.28 USD,+0.94%,100.79 K,0.24,153.44 M USD,
+BIOX,BIOX − Bioceres Crop Solutions Corp.,4.94 USD,−1.00%,80.73 K,0.54,309.79 M USD,
+BIP,BIP − Brookfield Infrastructure Partners LP Limited Partnership,34.07 USD,+0.83%,186.88 K,0.42,22.22 B USD,4.90%
+BIPC,BIPC − Brookfield Infrastructure Corporation,43.16 USD,+1.67%,343.32 K,0.58,5.14 B USD,3.99%
+BIRD,"BIRD − Allbirds, Inc.",10.62 USD,+1.29%,34.06 K,0.41,86.44 M USD,+27.35%
+BIRK,BIRK − Birkenstock Holding plc,48.82 USD,−0.47%,725.13 K,0.34,9.17 B USD,
+BIVI,BIVI − BioVie Inc.,0.9600 USD,−1.07%,122.63 K,0.53,17.83 M USD,
+BIYA,BIYA − Baiya International Group Inc.,0.7600 USD,+1.33%,267.59 K,0.05,—,
+BJ,"BJ − BJ's Wholesale Club Holdings, Inc.",109.44 USD,+0.27%,722.05 K,0.37,14.45 B USD,+11.69%
+BJDX,"BJDX − Bluejay Diagnostics, Inc.",1.63 USD,+0.62%,10.13 K,0.18,2.44 M USD,
+BJRI,"BJRI − BJ's Restaurants, Inc.",46.09 USD,−1.47%,268.9 K,0.49,1.02 B USD,−5.89%
+BK,BK − The Bank of New York Mellon Corporation,92.43 USD,+0.37%,2.41 M,0.45,66.13 B USD,+49.36%
+BKD,BKD − Brookdale Senior Living Inc.,6.84 USD,−0.58%,1.49 M,0.36,1.6 B USD,−34.30%
+BKE,"BKE − Buckle, Inc. (The)",47.66 USD,+0.06%,157.86 K,0.28,2.44 B USD,−8.26%
+BKH,BKH − Black Hills Corporation,56.91 USD,+0.76%,262.84 K,0.37,4.13 B USD,−3.59%
+BKHA,BKHA − Black Hawk Acquisition Corporation,10.64 USD,0.00%,563,0.09,95.01 M USD,
+BKKT,"BKKT − Bakkt Holdings, Inc.",18.11 USD,−2.79%,853.32 K,1.17,256.29 M USD,
+BKNG,BKNG − Booking Holdings Inc. Common Stock,"5,716.80 USD",+0.26%,131.16 K,0.53,186.03 B USD,+20.54%
+BKR,BKR − Baker Hughes Company,39.64 USD,−0.48%,3.61 M,0.42,39.27 B USD,2.22%
+BKSY,BKSY − BlackSky Technology Inc.,21.48 USD,+5.97%,1.41 M,0.46,679.89 M USD,
+BKTI,BKTI − BK Technologies Corporation,50.24 USD,+3.61%,29.16 K,0.18,184.56 M USD,
+BKU,"BKU − BankUnited, Inc.",38.04 USD,+1.14%,530.59 K,0.53,2.86 B USD,+39.06%
+BKV,BKV − BKV Corporation,22.75 USD,−1.17%,227.91 K,0.34,1.93 B USD,
+BKYI,"BKYI − BIO-key International, Inc.",0.8071 USD,−0.96%,37.28 K,0.12,5.53 M USD,
+BL,"BL − BlackLine, Inc.",57.81 USD,+1.49%,296.41 K,0.35,3.6 B USD,
+BLBD,BLBD − Blue Bird Corporation,45.60 USD,+0.33%,525.33 K,1.26,1.44 B USD,+31.84%
+BLBX,BLBX − Blackboxstocks Inc.,7.12 USD,+12.30%,226.72 K,1.46,25.97 M USD,+12.48%
+BLCO,BLCO − Bausch + Lomb Corporation,13.88 USD,+0.87%,618.72 K,0.70,4.91 B USD,−6.99%
+BLD,BLD − TopBuild Corp.,347.63 USD,+0.71%,287.27 K,0.62,9.94 B USD,−0.40%
+BLDE,"BLDE − Blade Air Mobility, Inc.",4.18 USD,+1.21%,300.52 K,0.38,338.65 M USD,+49.64%
+BLDR,"BLDR − Builders FirstSource, Inc.",127.22 USD,−0.52%,1.73 M,0.55,14.06 B USD,−33.31%
+BLFS,"BLFS − BioLife Solutions, Inc.",22.84 USD,+0.40%,503.41 K,0.75,1.09 B USD,
+BLFY,BLFY − Blue Foundry Bancorp,9.87 USD,+1.02%,39.63 K,0.53,214.38 M USD,−41.97%
+BLIN,"BLIN − Bridgeline Digital, Inc.",1.48 USD,+2.78%,20.55 K,0.58,17.64 M USD,
+BLIV,BLIV − BeLive Holdings,3.55 USD,+5.03%,13.42 K,0.47,38.57 M USD,
+BLK,"BLK − BlackRock, Inc.","1,082.15 USD",+1.08%,342.68 K,0.53,167.65 B USD,+4.62%
+BLKB,"BLKB − Blackbaud, Inc.",65.75 USD,+1.25%,155.78 K,0.40,3.19 B USD,
+BLMN,"BLMN − Bloomin' Brands, Inc.",10.16 USD,−0.39%,1.34 M,0.48,864.22 M USD,7.68%
+BLMZ,BLMZ − BloomZ Inc.,0.1547 USD,−1.84%,521.73 K,0.11,2.23 M USD,
+BLND,"BLND − Blend Labs, Inc.",3.53 USD,+3.22%,1.03 M,0.45,912.59 M USD,
+BLNE,"BLNE − Beeline Holdings, Inc.",1.39 USD,−1.42%,553.83 K,0.05,12.6 M USD,
+BLNK,BLNK − Blink Charging Co.,0.9641 USD,+5.37%,2.18 M,0.37,99.03 M USD,+28.84%
+BLX,"BLX − Banco Latinoamericano de Comercio Exterior, S.A.",40.83 USD,+1.16%,55.77 K,0.34,1.43 B USD,+13.48%
+BLZE,"BLZE − Backblaze, Inc.",5.61 USD,+3.51%,257.87 K,0.55,307.99 M USD,+28.80%
+BMBL,BMBL − Bumble Inc.,6.51 USD,−1.81%,1.11 M,0.26,672.43 M USD,
+BMEA,"BMEA − Biomea Fusion, Inc.",1.66 USD,+0.61%,1.29 M,0.42,94.66 M USD,+0.45%
+BMGL,BMGL − Basel Medical Group Ltd,1.72 USD,−1.15%,401.69 K,0.69,32.31 M USD,
+BMI,"BMI − Badger Meter, Inc.",242.62 USD,+0.95%,145.01 K,0.68,7.15 B USD,+30.85%
+BMNR,"BMNR − BitMine Immersion Technologies, Inc.",135.00 USD,+130.77%,37.55 M,2.06,831.98 M USD,
